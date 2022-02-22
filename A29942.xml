@@ -1,0 +1,1217 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The clergy vindicated, or, The rights and privileges that belong to them, asserted according to the laws of England more particularly, touching the sitting of bishops in Parliament, and their making proxies in capital cases.</title>
+            <author>Brydall, John, b. 1635?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 105 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A29942</idno>
+            <idno type="STC">Wing B5255</idno>
+            <idno type="STC">ESTC R302</idno>
+            <idno type="EEBO-CITATION">12240882</idno>
+            <idno type="OCLC">ocm 12240882</idno>
+            <idno type="VID">56764</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A29942)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 56764)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 130:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The clergy vindicated, or, The rights and privileges that belong to them, asserted according to the laws of England more particularly, touching the sitting of bishops in Parliament, and their making proxies in capital cases.</title>
+                  <author>Brydall, John, b. 1635?</author>
+               </titleStmt>
+               <extent>35 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by E.T. and R.H.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to John Brydall. Cf. Wing.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Clergy.</term>
+               <term>Church of England --  Bishops --  Temporal power.</term>
+               <term>England and Wales. --  Parliament. --  House of Lords.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:56764:1"/>
+            <pb facs="tcp:56764:1" rendition="simple:additions"/>
+            <p>THE CLERGY Vindicated, OR THE RIGHTS AND PRIVILEGES That belong to them, ASSERTED; According to the <hi>Laws of England.</hi>
+            </p>
+            <p>MORE Particularly, touching the Sitting of BISHOPS in PARLIAMENT; and their making Proxies in Capital Caſes.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>E. T.</hi> and <hi>R. H.</hi> 1679.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:56764:2"/>
+            <pb n="3" facs="tcp:56764:2"/>
+            <head>THE RIGHTS and PRIVILEGES OF THE CLERGY, According to the Laws of England.</head>
+            <p>THe Clergy of <hi>England,</hi> or the whole number of thoſe that are <hi>De Clero Do<g ref="char:EOLhyphen"/>mini,</hi> of the Lord's Lot, or Share, as the Tribe of <hi>Levi</hi> was in <hi>Judea,</hi> is, according to our Law, twofold; <hi>Clerus Major,</hi> and <hi>Clerus Minor;</hi> the Greater and Leſſer Clergy: The former doth comprehend the Barons Spi<g ref="char:EOLhyphen"/>ritual, or Lords of Parliament; that is to ſay, the Arch-Biſhops and Bi<g ref="char:EOLhyphen"/>ſhops. The later contains Arch-Deacons, Deans, Prebends, Parſons, Vicars, and Chaplains. Of both theſe kinds I will treat ſeverally, and apart. But before I do ſo, I ſhall give the Reader an Account in general, of the Eccleſiaſtical State of the Church of <hi>England,</hi> as I find it deſcribed by Mr. <hi>Cambden,</hi> and Sir <hi>Edward Coke.</hi>
+            </p>
+            <p>Mr. <hi>Cambden</hi> tells us, that <hi>England</hi> hath two Provinces; and accordingly, two Arch-Biſhops; to wit, the Arch-Biſhop of <hi>Canterbury,</hi> Primate and Metropolitan of all <hi>En<g ref="char:EOLhyphen"/>gland;</hi> and the Arch-Biſhop of <hi>York.</hi> Under theſe are twenty five Biſhops. To the Arch-Biſhop of <hi>Canterbury</hi> are ſubject, twenty two. To the Arch-biſhop of <hi>York,</hi> the other three.</p>
+            <p>Now, what Biſhopricks theſe be, with the Shires and Dioceſſes that are at this day under their Juriſdiction, follow thus.</p>
+            <div type="part">
+               <head>
+                  <hi>In the Province of</hi> Canterbury.</head>
+               <p>The Biſhoprick of <hi>Canterbury,</hi> together with that of <hi>Rocheſter,</hi> containeth under it <hi>Kent</hi> it ſelf.</p>
+               <p>The Biſhoprick of <hi>London</hi> hath under it, <hi>Eſſex, Middleſex,</hi> and part of <hi>Hertfordſhire.</hi>
+               </p>
+               <p>The Biſhoprick of <hi>Chicheſter</hi> hath belonging to it, <hi>Suſſex.</hi>
+               </p>
+               <p>The Biſhoprick of <hi>Wincheſter</hi> compriſeth <hi>Southamptonſhire, Surrey,</hi> and the Iſle of <hi>Wight, Gernſey,</hi> and alſo <hi>Jerſey;</hi> Iſlands lying againſt <hi>Normandy.</hi>
+               </p>
+               <p>The Biſhoprick of <hi>Salisbury</hi> comprehendeth <hi>Wiltſhire</hi> and <hi>Berk ſhire.</hi>
+               </p>
+               <p>The Biſhoprick of <hi>Exeter</hi> containeth <hi>Devonſhire</hi> and <hi>Cornwal.</hi>
+               </p>
+               <p>The Biſhoprick of <hi>Bath</hi> and <hi>Wells,</hi> joyned together, hath under it <hi>Somerſetſhire.</hi>
+               </p>
+               <p>The Biſhoprick of <hi>Gloceſter</hi> hath belonging to it <hi>Gloceſterſhire.</hi>
+               </p>
+               <p>To the Biſhoprick of <hi>Worceſter</hi> is ſubject <hi>Worceſterſhire,</hi> and part of <hi>Warwickſhire.</hi>
+               </p>
+               <p>To the Biſhoprick of <hi>Hereford, Hereford,</hi> and part of <hi>Salop,</hi> or <hi>Shropſhire.</hi>
+               </p>
+               <p>The Biſhoprick of <hi>Coventry</hi> and <hi>Litchfield</hi> joyned together, have under it <hi>Staffordſhire, Derbyſhire,</hi> and the other part of <hi>Warwickſhire;</hi> as alſo, that part of <hi>Shropſhire,</hi> which lieth toward the River <hi>R<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>pil.</hi>
+               </p>
+               <pb n="4" facs="tcp:56764:3"/>
+               <p>Th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n the Biſhoprick of <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>,</hi> which of all others is the greateſt, is bounded <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, <hi>H<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nting<gap reason="illegible" resp="#MURP" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ſhire, Bedfordſhire, Buckinghamſhire,</hi> and the <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</p>
+               <p>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> of <hi>Ely</hi> pertain <hi>Camb<gap reason="illegible" resp="#MURP" extent="5 letters">
+                        <desc>•••••</desc>
+                     </gap>ſhire,</hi> and the Iſle of <hi>Ely</hi> it ſelf.</p>
+               <p>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> of <hi>Norwich</hi> is <hi>North<gap reason="illegible" resp="#MURP" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>
+                  </hi> and <hi>Su<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>olk.</hi>
+               </p>
+               <p>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> of <hi>O<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>ord</hi> hath under it <hi>Ox<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>fordſhire.</hi>
+               </p>
+               <p>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> of <hi>Peterborough</hi> comprizeth <hi>Northamptonſhire</hi> and <hi>Rutlandſhire.</hi>
+               </p>
+               <p>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> the Biſhoprick of <hi>Briſtol</hi> is <hi>Do<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſetſhire.</hi>
+               </p>
+               <p>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Dioceſſes in <hi>England</hi> are to be added thoſe of <hi>Wales;</hi> which are <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> their own peculiar Arch-Biſhoprick, and made alſo fewer in number; ſe<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#MURP" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> brought ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>arce to <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>our: to wit, The Biſhoprick of <hi>M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>a,</hi> havin<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Seat <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, the Biſhoprick of <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>,</hi> the Biſhoprick of <hi>Ba<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>,</hi> and the Biſhoprick of <hi>
+                     <gap reason="illegible" resp="#MURP" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>In the Province of</hi> York.</head>
+               <p>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> of <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi> comprehendeth <hi>Yorkſhire</hi> it ſelf and <hi>Nottinghamſhire.</hi>
+               </p>
+               <p>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> containeth <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>, Richmondſhire, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>,</hi> part of <hi>Cumber<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#MURP" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </hi> and of <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="6 letters">
+                        <desc>••••••</desc>
+                     </gap>ſhire.</hi>
+               </p>
+               <p>The Biſhoprick of <hi>Durham</hi> hath <hi>Durham</hi> it ſelf under it, and <hi>Northumberland.</hi>
+               </p>
+               <p>The Biſhoprick of <hi>Carl<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſle</hi> containeth within it part o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Camberland</hi> and the County of <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</p>
+               <p>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> there are in <hi>England</hi> Deanri<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> twenty ſix, whereof thirteen were ordained by <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> in the great<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Cath<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>al Churches, after the Monks were thruſt out. Arch-D<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#MURP" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ies, ſixty. Dignities and Probends, five hundred forty four. Numbred alſo there <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Pariſh Churches under Biſhopricks, nine thouſand two hundred eighty four; o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> which three thouſand eight hundred forty five be Appropriate. Now, Ap<g ref="char:EOLhyphen"/>propriate Churches thoſe are called, which by the Pope's Authority, coming between with conſent of the King, and the Biſhop of the Dioceſs, were upon certain Conditi<g ref="char:EOLhyphen"/>ons tyed, or Inſtruments <hi>united annexed and incorporated for ever,</hi> unto Monaſteries Bi<g ref="char:EOLhyphen"/>ſhopricks, Colledges and Hoſpitals, endowed with ſmall Lands, either for that the ſaid Churches were built within their Lordſhips and Lands, or granted by the Lords of the ſaid Lands. Which Churches afterwards, when the Abbies and Monaſteries were ſuppreſſed, became Lay Fees, to the great dammage of the Church. Thus much Mr. <hi>Cambden.</hi>
+               </p>
+               <p>As for Sir <hi>Edward Coke,</hi> he informeth us. That the Eccleſiaſtical State of <hi>England</hi> is di<g ref="char:EOLhyphen"/>vided into two Provinces, or Arch-Biſhop<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>icks; <hi>viz.</hi> Of <hi>Canterbury,</hi> and of <hi>York.</hi>
+               </p>
+               <p>The Arch-Biſhop of <hi>Canterbury</hi> is ſtyled, <hi>Metropolitanus, &amp; Primas Totius Angliae:</hi> and the Arch-Biſhop of <hi>York, Primas Angliae.</hi>
+               </p>
+               <p>Each Arch-Biſhop hath within his Province Suffragan Biſhops of ſeveral Dioceſſes.</p>
+               <p>The Arch-Biſhop of <hi>Canterbury</hi> hath under him within his Province, of ancient Foun<g ref="char:EOLhyphen"/>dations; <hi>viz. Rocheſter</hi> his Principal Chaplain, <hi>London</hi> his Dean. <hi>Wincheſter</hi> his Chan<g ref="char:EOLhyphen"/>cellor, <hi>Norwich, Lincoln, Ely, Chicheſter, Salisbury, Exeter, Bath</hi> and <hi>Wells, Worceſter, Co<g ref="char:EOLhyphen"/>ventry</hi> and <hi>Litchfield, Hereford, Land<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ff,</hi> St. <hi>Davids, Bangor,</hi> and St. <hi>Aſaph;</hi> and four founded by King <hi>Henry</hi> the Eighth, erected out of the Ruins of diſſolved Monaſteries; that is to ſay, <hi>Gloceſter, Briſtol, Peterborough,</hi> and <hi>Oxford.</hi>
+               </p>
+               <p>The Arch-Biſhop of <hi>York</hi> hath under him four, <hi>viz.</hi> Ths Biſhop of the County Pa<g ref="char:EOLhyphen"/>latine of <hi>Cheſter,</hi> newly erected by <hi>Henry</hi> the Eighth, and annexed by him to the Arch-Biſhop of <hi>York;</hi> the County Palatine of <hi>Durham, Carliſle,</hi> and the Iſle of <hi>Man,</hi> annexed to the Province of <hi>York</hi> by <hi>Henry</hi> the Eighth. But a greater number this Arch-Biſhop had, which time hath taken from him.</p>
+               <p>Every Dioceſs is divided into Arch-Deaconries, whereof there be ſixty. And every Arch-Deaconry is divided into Deanries; and Deanries again into Pariſhes, Towns and Hamlets.</p>
+               <p>Having thus given my Reader an Account, how the Eccleſiaſtical State of <hi>England</hi> ſtandeth at this day; I come to ſpeak of the Clergy, according to the diviſion thereof, by me before given; <hi>viz.</hi> Into the Greater and Leſſer Clergy.</p>
+            </div>
+            <div type="part">
+               <pb n="5" facs="tcp:56764:3"/>
+               <head>Firſt, Of the Greater or Superior Clergy; compre<g ref="char:EOLhyphen"/>hending the Prelates, the Arch-Biſhops and Biſhops.</head>
+               <p>THat the Law of <hi>England</hi> may be the better underſtood, concerning our Su<g ref="char:EOLhyphen"/>perior Clergy, I ſhall reduce it to theſe Particularities following, which are not unworthy of the Reader's Obſervation.</p>
+               <p n="1">1. Who the Founder and Patron of all Biſhopricks.</p>
+               <p n="2">2. To whom the Spiritualties and Temporalties of Biſhops appertain, <hi>Sede Vacante.</hi>
+               </p>
+               <p n="3">3. How Biſhops were anciently made.</p>
+               <p n="4">4. Their Juriſdiction, what, and whence derived.</p>
+               <p n="5">5. Their Courts.</p>
+               <p n="6">6. By whom only commanded to certifie.</p>
+               <p n="7">7. Biſhops Proceedings in Eccleſiaſtical Courts, under the Name, Style, Seal of the Biſhops, how warrantable.</p>
+               <p n="8">8. With what Council they are aſſiſted.</p>
+               <p n="9">9. Their Dominion and Property relating to Temporalities.</p>
+               <p n="10">10. What the King hath after every Biſhop's death.</p>
+               <p n="11">11. Biſhopricks, whether Saleable.</p>
+               <p n="12">12. Their Right of Sitting in Parliament.</p>
+               <p n="13">13. Their Right of making Proxies in Caſes of Life and Death.</p>
+               <p n="14">14. Statutes, where made without them.</p>
+               <p n="15">15. Their Privileges as they are Lords of Parliament.</p>
+               <p n="16">16. Their Precedency.</p>
+               <p n="17">17. Their Excommunications.</p>
+               <div type="section">
+                  <head>1. <hi>The Founder and Patron of all Biſhopricks.</hi>
+                  </head>
+                  <p>IT appeareth by our Books,
+<note place="margin">
+                        <hi>Co. Litt. f.</hi> 97. <hi>a</hi> 134. <hi>a.</hi> 344. <hi>a. Co.</hi> 2. <hi>Inst. f.</hi> 3. <hi>Stat.</hi> 25. <hi>E.</hi> 1. <hi>Carliſle.</hi>
+                     </note> that all Arch-Biſhops and Biſhops of <hi>England</hi> have been founded by the Kings of <hi>England;</hi> and therefore it hath been declared in Parliament, that the Holy Church of <hi>England</hi> was founded in the State of Prelacy within this Realm, by the King and his Progenitors. But here then may be queried, who were the firſt Founders of the Biſhopricks in <hi>Wales?</hi>
+                  </p>
+                  <p>It is anſwered,
+<note place="margin">10. <hi>H</hi> 4.6. <hi>b. Co. Litt.</hi> 97. <hi>
+                           <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>o.</hi> 2. <hi>Inst. f.</hi> 195. <hi>On the Stat. of West.</hi> 1. <hi>c.</hi> 17.</note> That the Biſhopricks in <hi>Wales</hi> were founded by the Princes of <hi>Wales;</hi> and the Principality of <hi>Wales</hi> was holden of the King of <hi>England,</hi> as of his Crown: and when the Prince of <hi>Wales</hi> committed Treaſon, Rebellion, <hi>&amp;c.</hi> the Principality was forfeited, and the Patronages of the Biſhops annexed to the Crown of <hi>England.</hi> So as the King is to have Penſions for his Chaplains, and Corodies for his Vadelers, of them, as of Biſhops founded by himſelf.</p>
+               </div>
+               <div type="section">
+                  <head>2. <hi>To whom the Custody of the Spiritualties and Temporalties of Biſhops do appertain,</hi> Sede Vacante.
+<note place="margin">
+                        <hi>Co.</hi> 2. <hi>Inſt.</hi> 15. <hi>West.</hi> 1. <hi>c</hi> 21. <hi>Magna Charta, 5. Prerog Regis, c.</hi> 14. <hi>Rolls Abr.</hi> 2. <hi>p. f.</hi> 223.</note>
+                  </head>
+                  <p>THe Cuſtody of the Temporalties of every Arch-Biſhop and Biſhop (ſays <hi>Coke</hi>) within the Realm, and of ſuch. Abbies and Priories as were of the King's
+<pb n="6" facs="tcp:56764:4"/>Foundation, after the ſame became void, belonged to the King, during the Vaca<g ref="char:EOLhyphen"/>tion thereof by his Prerogative. For, as the Spiritualties belonged, during that time, to the Dean and Chapter, <hi>de Communi Jure,</hi> or to ſome other Eccleſiaſtical Perſon, by Preſcription or Compoſition; ſo the Temporalties came to the King as Founder. And this doth belong to the King, being <hi>Patronus &amp; Protector Eccle<g ref="char:EOLhyphen"/>ſiae,</hi> in ſo high a Prerogative incident to his Crown, as no Subject can claim the Temporalties of an Arch-Biſhop, or Biſhop, when they fall, by Grant or Preſcri<g ref="char:EOLhyphen"/>ption.</p>
+               </div>
+               <div type="section">
+                  <head>3. <hi>How Biſhops were, and how now made.</hi>
+                  </head>
+                  <p>IT is apparented by our Books of Law and Hiſtory,
+<note place="margin">
+                        <hi>Co. Lit. f.</hi> 134. <hi>a.</hi> 344. <hi>a. Co. Lib.</hi> 3 <hi>Dean and Chapt. of</hi> Norwich<hi>'s caſe, Rolls Rep.</hi> 2. <hi>part, f.</hi> 102. <hi>Davy's Rep. f.</hi> 46. <hi>a. de Capitula<g ref="char:EOLhyphen"/>riter congregatis</hi>
+                     </note> that at the firſt all the Bi<g ref="char:EOLhyphen"/>ſhopricks in <hi>England</hi> were Donative, <hi>per Traditionem Baculi; i. e.</hi> the Croſier, which was the Paſtoral Staff: and <hi>Annuli,</hi> the Ring, whereby he was married to the Church. King <hi>Henry</hi> the firſt being requeſted by the Biſhop of <hi>Rome</hi> to make them elective, refuſed it. But King <hi>John,</hi> by his Charter, bearing Date, <hi>Quinto Junti, Anno Decimo Septimo,</hi> granted that the Biſhopricks ſhould be Eligible; which afterwards was confirmed by divers Acts of Parliament. And afterward the manner and order, as well of Election of Arch-Biſhops and Biſhops, as for the Confirmation of the Election and Conſecration, is enacted and expreſſed in the Sta<g ref="char:EOLhyphen"/>tute of the Twenty fifth of <hi>Henry</hi> the Eighth. But by the Statute of the thirty firſt of <hi>Henry</hi> the Eighth, and the firſt of <hi>Edward</hi> the Sixth, they were made Dona<g ref="char:EOLhyphen"/>tive by the King's Letters Patents. Both which Statutes are repealed, and the Sta<g ref="char:EOLhyphen"/>tute of the twenty fifth of <hi>Henry</hi> the Eighth, doth yet remain in full force and effect.</p>
+               </div>
+               <div type="section">
+                  <head>4. <hi>Their Juriſdiction, what, and whence derived.</hi>
+                  </head>
+                  <p>AS to the Juriſdiction and Authority that appertains to Biſhops, are conſide<g ref="char:EOLhyphen"/>rable two Particulars.</p>
+                  <p n="1">1. Whence this Juriſdiction is derived.</p>
+                  <p n="2">2. The Extent and Subject Matters of this Juriſdiction.</p>
+                  <div type="subsection">
+                     <head>1. <hi>Whence derived.</hi>
+                     </head>
+                     <p>The King of <hi>England</hi> is, and of Right always was, the Fountain of all Juſtice and Juriſdiction. in all Cauſes, as well Eccleſiaſtical as Civil, within his Domini<g ref="char:EOLhyphen"/>ons. And this is evident our by Books.</p>
+                     <p>The Right Reverend Prelate, <hi>Matthew Parker,</hi> Arch-Biſhop of <hi>Canterbury,</hi> a man very expert in matters of Antiquity, affirms in his Book ſet forth in Latin, <hi>Anno Domini,</hi>
+                        <note place="margin">
+                           <hi>Co. lib.</hi> 9. <hi>Henſ<g ref="char:EOLhyphen"/>loes Caſe</hi>
+                        </note> 1573. <hi>Quod Rex Angliae, olim erat Conciliorum Eccleſiaſticorum praeſes, vindex temeritatis Romanae, Propugnator Religionis, nec ullam babebant Epiſcopi Authori<g ref="char:EOLhyphen"/>tatem praeter eam quam a Rege acceptam referebant, Jus teſtamenti probandi non habebant, Adminiſtrationis poteſtatem cuique delegare non poterant.</hi>
+                     </p>
+                     <p>It was reſolved in the Tryal touching Legitimation,
+<note place="margin">
+                           <hi>Davy's Reports, f.</hi> 51. <hi>b.</hi> 52. <hi>a.</hi>
+                        </note> and Baſtardy; that al<g ref="char:EOLhyphen"/>though all Matrimonial Cauſes have been a long time determinable in the Eccleſia<g ref="char:EOLhyphen"/>ſtical Courts, and are now properly within the Juriſdiction and Cogniſance of the Clergy.
+<note place="margin">
+                           <hi>Vide Davy's Re<g ref="char:EOLhyphen"/>ports, Le Caſe de Premunire,</hi> 97. <hi>b.</hi> 98. <hi>a.</hi>
+                        </note> Yet, <hi>Ab Initio, non fuit ſic.</hi> For, as well Cauſes of Matrimony, as Cau<g ref="char:EOLhyphen"/>ſes Teſtamentary, were Civil Cauſes, and apertained to the Juriſdiction of the Ci<g ref="char:EOLhyphen"/>vil Magiſtrate, as it is well known to all Civilians: until the Chriſtian Emperors and Kings, for the honouring of Prelates of the Clergy, have granted or allowed to them the Cognizance and Juriſdiction in thoſe Caſes.</p>
+                     <p>And therefore the Kings of <hi>England,</hi> although they have allowed the Prelates of the Church to exerciſe their ſeveral Juriſdictions in thoſe Cauſes which properly appertained to their Cognizance; yet, by the Rules of the Common Law, he
+<pb n="7" facs="tcp:56764:4"/>hath a Superintendency upon their proceeding: with power of Direction, when and how they ſhall proceed; and of Reſtraint and Correction, if they proceed not duely and orderly in many Caſes; as it is manifeſted by the Writs of ſeveral na<g ref="char:EOLhyphen"/>tures directed to the Biſhops: whereby the King commands them to certifie <hi>Ba<g ref="char:EOLhyphen"/>ſtardy, Excommunication, Profeſſion, Accouplement in Loyal Matrimony, Of Admitting Clerks, De Cautione Admittenda, &amp;c.</hi> And alſo, by Writs of <hi>Prohibition, Conſulta<g ref="char:EOLhyphen"/>tion,</hi> and <hi>Attachments for Prohibition.</hi>
+                     </p>
+                  </div>
+                  <div type="subsection">
+                     <head>2. <hi>What is their Juriſdiction.</hi>
+                     </head>
+                     <p>For the deciding of Controverſies (ſays Sir <hi>Edward Coke</hi>) and diſtribution of Ju<g ref="char:EOLhyphen"/>ſtice, there be two diſtinct Juriſdictions. The one Secular, and General, for that it is guided by the common and general Law of the Realm.
+<note place="margin">
+                           <hi>Co. Lit. f.</hi> 96. <hi>a.</hi>
+                        </note> The other Eccleſiaſti<g ref="char:EOLhyphen"/>cal, limited to certain ſpiritual and particular Caſes; and the Court wherein the Cauſes are handled, is called <hi>Forum Eccleſiaſticum;</hi> in which the Biſhops are Judges, and immediate Officers to the King's Courts of Juſtice in Cauſes Eccleſiaſtical.</p>
+                     <p>Now, the Spiritual, or Eccleſiaſtical Cauſes, accarding to the uſage and cuſtom of <hi>England,</hi> are Blaſphemy, Apoſtacy from Chriſtianity, Hereſies, Schiſms, Holy Orders, Admiſſions, Inſtitution of Clerks, Celebration of Divine Service, Rights of Matrimony, Divorces, General Baſtardy, Subtraction and Right of Tithes, Oblations, Obventions, Dilapidations, Excommunication, Reparation of Churches, Probate of Teſtaments, Adminiſtrations, and Accounts upon the ſame, Symony, Inceſt, Fornications, Adulteries, Sollicitation of Chaſtity, Penſions, Procurations, Appeals in Eccleſiaſtical Caſes, Commutation of Penance. All which are determi<g ref="char:EOLhyphen"/>ned by Eccleſiaſtical Judges.</p>
+                     <p>That the Reader may the better know the Extent and Latitude of the Epiſcopal Juriſdiction and Authority, let him take with him theſe Rules that I have met with<g ref="char:EOLhyphen"/>al in our Books.</p>
+                     <p n="1">1. <hi>Rule,</hi> That where the Right is Spiritual,
+<note place="margin">
+                           <hi>Co. Lit.</hi> 96 <hi>a.</hi>
+                        </note> and the Remedy therefore only by the Eccleſiaſtical Law, the Cogniſance thereof doth appertain to the Eccleſiaſtical Court.</p>
+                     <p n="2">2. When the Right of Tithes ſhall be tried in the Spiritual Court,
+<note place="margin">
+                           <hi>Co. Lib.</hi> 13. <hi>f.</hi> 17. <hi>Caſe of Modus decimandi.</hi>
+                        </note> and the Spi<g ref="char:EOLhyphen"/>ritual Court hath Juriſdiction thereof, that other Courts ſhall be outed of their Juriſdiction.</p>
+                     <p n="3">3. Where the Common, or Statute Law,
+<note place="margin">
+                           <hi>Co. Lit.</hi> 96. <hi>b.</hi>
+                        </note> giveth Remedy <hi>in Foro Seculari</hi> (whe<g ref="char:EOLhyphen"/>ther the matter be Spiritual or Temporal) the Cogniſance of that Cauſe belongeth to the King's Temporal Courts only, unleſs the Juriſdiction of the Eccleſiaſtical Court be ſaved, or allowed by the Statute to proceed, according to the Eccleſia<g ref="char:EOLhyphen"/>ſtical Laws.</p>
+                     <p n="4">4. <hi>Cujus Juris, i. e. Juriſdictionis eſt Principale, ejuſdem Juris erit Acceſſorium.</hi>
+                        <note place="margin">
+                           <hi>Co. lib.</hi> 13. <hi>Col<g ref="char:EOLhyphen"/>lins</hi> and <hi>Har<g ref="char:EOLhyphen"/>dinger</hi>'s Caſe, <hi>Co. Lib.</hi> 13. <hi>Caſe de Modo deci<g ref="char:EOLhyphen"/>mandi.</hi>
+                        </note> Or <hi>Conſonans Rationi, quod Cognitio Acceſſarii, in Curia Chriſtianitatis ſit, ubi Cognitio Cau<g ref="char:EOLhyphen"/>ſa Principalis ad forum Eccleſiaſticum noſcitur pertinere.</hi>
+                     </p>
+                     <p>I will conclude this Section with this Remark. The Office of Epiſcopacy is not from the King, but of God. The Place, Station and Power wherein that Office is exerciſed, is from the King. It is the King that gives the Biſhoprick: It is God that makes the Biſhop. A Soveraign Prince claims not the Power of ordaining a Paſtor in the Church. On the other ſide; Who but Princes can take upon them to have power to erect, and diſpoſe of Epiſcopal Seas, within their own Dominions.</p>
+                  </div>
+               </div>
+               <div type="section">
+                  <head>5. <hi>Their Courts.</hi>
+                  </head>
+                  <p>THe Courts wherein the Biſhops exerciſe their Juriſdiction in Matters Spiritual, or Eccleſiaſtical, are theſe following.</p>
+                  <div type="subsection">
+                     <pb n="8" facs="tcp:56764:5"/>
+                     <head>1. <hi>The Court of Convocation.</hi>
+                     </head>
+                     <p>This Court is ſtyled, or called the Convocation of the Clergy; who are aſſembl<g ref="char:EOLhyphen"/>ed for Conſultation, upon matters Eccleſiaſtical in time of Parliament.</p>
+                     <p>It conſiſteth of two diſtinct Houſes. The one called the Higher Convocation Houſe; where the Arch-Biſhops and Biſhops ſit ſeverally by themſelves. The o<g ref="char:EOLhyphen"/>ther the Lower Convocation-Houſe; where all the reſt of the Clergy are be<g ref="char:EOLhyphen"/>ſtowed.</p>
+                     <p>And, as there be two Houſes of Convocation, ſo there be two Prolocutors; one of the Higher Houſe, the other of the Lower Houſe: who preſently, upon the firſt Aſſembly, is, by the motion of the Biſhops, choſen by the Lower Houſe, and preſented to the Biſhops for their Prolocutor; that is, the Man by whom they mean to deliver their Reſolutions to the Higher Houſe, and to have their own Houſe eſpecially, ordered and governed.</p>
+                     <p>His Office is, to cauſe the Clerk to call the Names of ſuch as are of the Houſe when he ſeeth cauſe, to cauſe all things propounded to be read by him, to gather the Suffrages, and ſuch like.</p>
+                     <p>Thoſe that ſit in this ſame Lower Houſe are called the Procters of the Clergy; which are choſen and appointed to appear for Cathedral, or other Collegiate Chur<g ref="char:EOLhyphen"/>ches; as alſo, for the Common Clergy of every Dioceſs, at the Parliament. Whoſe Choice is in this ſort.</p>
+                     <p>Firſt, The King directeth his Writ to the Arch-Biſhop of every Province, for the ſummoning of all Biſhops, Deans, Arch-Deacons, Cathedral and Collegiate Churches; and generally, of all the Clergy of his Province, after their beſt diſ<g ref="char:EOLhyphen"/>cretion and judgment; aſſigning them the time and place in the ſaid Writ. Then the Arch Biſhops proceed in their accuſtomed Courſe. One Example may ſerve to ſhew both.</p>
+                     <p>The Arch-Biſhop of <hi>Canterbury,</hi> upon his Writ received, directeth his Letters to the Biſhop of <hi>London,</hi> as his Dean-Provincial; firſt citing himſelf peremptorily, and then willing him to cite, in like manner, all the Biſhops, Deans, Arch-Dea<g ref="char:EOLhyphen"/>cons, Cathedral and Collegiate Churches; and generally, all the Clergy of his Pro<g ref="char:EOLhyphen"/>vince, to the place, and againſt the day fixed in the Writ. But directeth withal, that one Proctor ſent for every Cathedral or Collegiate Church, and two for the Body of the Inferior Clergy of each Dioceſs, may ſuffice. And by vertue of theſe Letters, authentickly ſealed, the ſaid Biſhop of <hi>London</hi> directeth his like Letters, ſeverally, to the Biſhop of every Dioceſs of the Province, citing them in like ſort; and commanding them, not only to appear, but alſo to admoniſh the ſaid Deans and Arch-Deacons perſonally to appear; and the Cathedral and Collegiate Chur<g ref="char:EOLhyphen"/>ches, as alſo the Common Clergy of the Dioceſs, to ſend their Proctors to the place, and at the day appointed. And alſo, willeth them to certifie the Arch-Bi<g ref="char:EOLhyphen"/>ſhop the names of all, and every one, ſo moniſhed by them, in a Schedule annexed to their Letters Certificatory. The Biſhops proceed accordingly; and the Cathe<g ref="char:EOLhyphen"/>dral and Collegiate Churches, as alſo, the Clergy, make choice of their Proctors: Which done, and certified to the Biſhop, he returneth all, anſwerably to his charge, at the day.</p>
+                     <p>Having given an Account how the Proctors of the Clergy are choſen, it will be high time to ſhew the Juriſdiction of this Court; what it was, and what now is.</p>
+                  </div>
+                  <div type="subsection">
+                     <head>1. <hi>What their Juriſdiction was.</hi>
+                     </head>
+                     <p>The Juriſdiction of this Court was,
+<note place="margin">
+                           <hi>Co.</hi> 4. <hi>Inſt.</hi> 323.</note> to deal with Hereſies, Schiſms, and other mere Spiritual and Eccleſiaſtical Cauſes; and therein they did proceed, <hi>Juxta Le<g ref="char:EOLhyphen"/>gem Divinam, &amp; Cannones Sanctae Eccleſiae.</hi>
+                     </p>
+                     <p>And,
+<note place="margin">
+                           <hi>Co.</hi> 4. <hi>Inſt. f.</hi> 322.</note> as they could never aſſemble together of themſelves, but were always cal<g ref="char:EOLhyphen"/>led together by the King's Writ; ſo were they oftentimes commanded by the King's Writ, to deal with nothing that concerned the King's Laws; of the Land, his Crown and Dignity, his Perſon, or the State of his Council or Kingdom.</p>
+                  </div>
+                  <div type="subsection">
+                     <pb n="9" facs="tcp:56764:5"/>
+                     <head>2. <hi>What their Juriſdiction now is.</hi>
+                     </head>
+                     <p>By the Statute of the twenty fifth of <hi>Henry</hi> the Eighth, <hi>C.</hi> 19. their Juriſdicti<g ref="char:EOLhyphen"/>on and Power is much limited and ſtraitned, concerning their making of new Canons. For they muſt have both Licenſe to make them; and after they be made, the King's Royal Aſſent to allow them, before they be put in Execution.</p>
+                     <p>But note, that in the end of that Act of the twenty fifth of <hi>Henry</hi> the Eighth, there is an expreſs Proviſo; that ſuch Canons as were made before that Act, which be not repugnant to the King's Prerogative, the Laws, Statutes, or Cuſtoms of the Realm, ſhould be ſtill uſed and executed, as they were before the making of that Act.</p>
+                     <p>It may be then queried whether, before the Statute of the twenty fifth of <hi>Henry</hi> the Eighth, a Diſme granted by the Clergy could bind the Clergy, before the Royal Aſſent?</p>
+                     <p>It is anſwered, that before this Act of the twenty fifth of <hi>Henry</hi> the Eighth, a <hi>Diſime,</hi> granted by the Clergy at the Convocation, did not bind the Clergy, be<g ref="char:EOLhyphen"/>fore the King's Royal Aſſent. <hi>Co.</hi> 4. <hi>Inſt.</hi> 323. 20. <hi>H.</hi> 6.13.</p>
+                  </div>
+                  <div type="subsection">
+                     <head>2. <hi>The Prerogative Court of the Arch-Biſhop.</hi>
+                     </head>
+                     <p>In this Court all Teſtaments be proved, and all Adminiſtrations granted, where the Party dying within the Province of the Arch-Biſhop of <hi>Canterbury,</hi> hath <hi>Bona Notabilia,</hi> in ſome other Dioceſs than where he dieth; which regularly, is to be to the value of five pound; but in the Dioceſs of <hi>London,</hi> it is ten pound by Com<g ref="char:EOLhyphen"/>poſition.</p>
+                     <p>It is ſaid, that Adminiſtration muſt be in two places, if the Inteſtate died in a Peculiar, within the Province of <hi>York;</hi> having Chattels in both. <hi>Cro.</hi> 1 <hi>Part. f.</hi> 719.</p>
+                  </div>
+                  <div type="subsection">
+                     <head>3. <hi>The Court of the Arches.</hi>
+                     </head>
+                     <p>Jt is called in Latin, <hi>Curia de Arcubus;</hi> which is the chiefeſt and ancienteſt Conſiſtory that belongeth to the Arch-Biſhop of <hi>Canterbury,</hi> for the debating of Spiritual Cauſes. So called of the Church in <hi>London,</hi> where they ſit, and hold this Conſiſtory, called <hi>Bow</hi>-Church; which is in Latin, <hi>Arcuum Eccleſia,</hi> and called <hi>Sancta Maria de Arcubus.</hi> Which Church was dedicated to our Lady, and had that Denomination at firſt, of <hi>Bow</hi>-Church, by reaſon of building of the top of the Steeple Bow-wiſe, or Arch-wiſe, like ſo many Bows bent. The Judge of this Court is called Dean of the Arches, becauſe with this Officialty is commonly joyn<g ref="char:EOLhyphen"/>ed a peculiar Juriſdiction of thirteen Pariſhes in <hi>London</hi> (termed a Deanry) being exempted from the Authority of the Biſhop of <hi>London;</hi> and belonging to the Arch-Biſhop of <hi>Canterbury.</hi> Of which the Pariſh of <hi>Bow</hi> is one; and the chief, becauſe the Court is there kept.</p>
+                  </div>
+                  <div type="subsection">
+                     <head>4. <hi>The Court of Audience.</hi>
+                     </head>
+                     <p>The Court of Audience (ſays <hi>Coke</hi>) is kept by the Arch-Biſhop, in his Palace; and medleth not with any matter, between Party and Party, of contentious Juriſ<g ref="char:EOLhyphen"/>diction, but dealeth with matters <hi>pro Formâ:</hi> as, Confirmations of Biſhops, Ele<g ref="char:EOLhyphen"/>ctions, Conſecrations, and the like. And with matters of Voluntary Juriſdicti<g ref="char:EOLhyphen"/>ons; as, the granting of the Guardianſhip of the Spiritualties, <hi>Sede Vacante</hi> of Biſhops; Admiſſion and Inſtitution of Benefices, diſpenſing with Banes of Matri<g ref="char:EOLhyphen"/>mony, and ſuch like.</p>
+                  </div>
+                  <div type="subsection">
+                     <head>5. <hi>The Court of Faculties.</hi>
+                     </head>
+                     <p>This Court belongeth to the Arch-Biſhop. And, for the granting of Faculties, there is under him an eſpecial Officer, called <hi>Magiſter ad Facultates,</hi> The Maſter of the Faculties.</p>
+                     <pb n="10" facs="tcp:56764:6"/>
+                     <p>Now, a Faculty in the Common Law, is uſed for a Privilege, or eſpecial Power granted unto a Man by Favour, Indulgence and Diſpenſation, to do that which by the Common Law, he cannot do. As, to eat Fleſh upon days prohibited; to marry without Banes firſt asked; to hold two or more Eccleſiaſtical Livings; the Son to ſucceed the Father in a Benefice, and ſuch like.</p>
+                  </div>
+                  <div type="subsection">
+                     <head>6. <hi>The Court of Peculiars.</hi>
+                     </head>
+                     <p>The Arch-Biſhop of <hi>Canterbury</hi> hath a Peculiar Juriſdiction, in divers Pariſhes within the City of <hi>London,</hi> and other Dioceſſes, <hi>&amp;c.</hi>
+                     </p>
+                  </div>
+                  <div type="subsection">
+                     <head>7. <hi>The Conſiſtory Courts of the Arch-Biſhops, and Biſhops.</hi>
+                     </head>
+                     <p>Conſiſtory (ſays one) is the Counſel-Houſe of Eccleſiaſtical Perſons; and it is a word borrowed of the <hi>Italians;</hi>
+                        <note place="margin">
+                           <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap>. <hi>f.</hi> 338.</note> or rather, the <hi>Lombards:</hi> and ſignifies as much as Tribunal. It is <hi>Vocabulum utriuſque Juris;</hi> and is uſed for the place of Juſtice, in the Courts Chriſtian, or Spiritual.</p>
+                     <p>The Conſiſtory Court of every Arch-Biſhop and Biſhop in every Dioceſs in Ec<g ref="char:EOLhyphen"/>cleſiaſtical Cauſes, is holden before his Chancellor, or before his Commiſſary, in places of the Dioceſs far remote, and diſtant, from the Biſhop's Conſiſtory; ſo as the Chancellor cannot call them to the Conſiſtory, without great Travels and Vexation. And he is called <hi>Commiſſarius Foraneus.</hi>
+                     </p>
+                     <p>From theſe the Appeal is to the Arch-Biſhop of either Province reſpectively.</p>
+                     <p>Official,
+<note place="margin">Note.</note> 
+                        <hi>Officialis,</hi> in the Canon Law, is eſpecially taken for him, to whom any Biſhop doth generally commit the Charge of his Spiritual Juriſdiction. And in this ſence one in every Dioceſs is <hi>(Officialis Principalis)</hi> whom the Statutes and Laws of this Kingdom call Chancellor. 32. <hi>H.</hi> 8. <hi>c.</hi> 15. The reſt, if there be more, are by the Canon Law called <hi>(Officiales Foranci)</hi> but with us are termed Commiſ<g ref="char:EOLhyphen"/>ſaries.</p>
+                  </div>
+                  <div type="subsection">
+                     <head>8. <hi>The Court of the Arch-Deacon, or his Commiſſary.</hi>
+                     </head>
+                     <p>This Court is to be holden where, and in what places the Arch-Deacon, by Preſcription or Compoſition, hath Juriſdiction in Spiritual Cauſes within his Arch-Deaconry. And from him the Appeal is to the <hi>Dioceſan.</hi> He is called, <hi>Oculus E<g ref="char:EOLhyphen"/>piſcopi.</hi>
+                     </p>
+                  </div>
+                  <div type="subsection">
+                     <head>9. <hi>The Court of Delegates.</hi>
+                     </head>
+                     <p>This Court is ſo vulgarly called, becauſe theſe Delegates do ſit by force of the King's Commiſſion, under the Great Seal, upon an Appeal to the King in the Court of <hi>Chancery</hi> in theſe Cauſes.</p>
+                     <p n="1">1. When a Sentence is given in any Eccleſiaſtical Cauſe, by the Arch-Biſhop, and his Official.</p>
+                     <p n="2">2. When any Sentence is given in any Eccleſiaſtical Cauſe, in places exempt.</p>
+                  </div>
+                  <div type="subsection">
+                     <head>10. <hi>The Court of the Commiſſioners of Review,</hi> Ad Revidendum.</head>
+                     <p>Albeit the Acts of 24. <hi>H.</hi> 8. <hi>c.</hi> 12. and 25. <hi>H.</hi> 8. <hi>c.</hi> 19. do, upon certain Ap<g ref="char:EOLhyphen"/>peals, make the Sentence definitive, as to any Appeal; yet the King after ſuch a definitive Sentence, as Supreme, may grant a Commiſſion of Review, <hi>ad Reviden<g ref="char:EOLhyphen"/>dum. C.</hi> 4. <hi>Inſt.</hi> 341. And ſo it was reſolved in the King's Bench. <hi>Trin.</hi> 39. <hi>Eliz. Hollingworth</hi>'s Caſe.</p>
+                     <p>Thus much may ſuffice to have been ſpoken concerning the Epiſcopal, or Eccle<g ref="char:EOLhyphen"/>ſiaſtical Courts, I proceed to the Sixth Particularity.</p>
+                  </div>
+               </div>
+               <div type="section">
+                  <pb n="11" facs="tcp:56764:6"/>
+                  <head>6. <hi>By whom only Biſhops are commanded to certifie.</hi>
+                  </head>
+                  <p>IT is to be known, that none but the King's Courts of Record;
+<note place="margin">
+                        <hi>Co. Litt.</hi> 
+                        <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>. 4. <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> 10<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 
+                        <hi>
+                           <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap>
+                        </hi> 2. <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> 325.</note> as the Court of Common Pleas, the King's Bench, Juſtices of Goal-Delivery, and the like, can write to the Biſhop, to certifie Baſtardy, Mulierty, Loyalty of Matrimony, and the like Eccleſiaſtical Matters. For, 'tis a Rule in Law, that none but the King can write to the Biſhop to certifie: and therefore no inferior Court, as <hi>London, Norwich, York,</hi> or any other Corporation, can write to the Biſhop to certifie; but in thoſe Caſes the Plea muſt be removed into the Court of Common Pleas, and that Court muſt write to the Biſhop, and then remand the Record again. And this was done in reſpect of the Honour and Reverence which the Law gave to the Bi<g ref="char:EOLhyphen"/>ſhop, being an Eccleſiaſtical Judge, and a Lord of Parliament, by reaſon of the Ba<g ref="char:EOLhyphen"/>rony which every Biſhop hath. And this was the reaſon a <hi>Quare Impedit</hi> did lie of a Church in <hi>Wales,</hi> in the County next adjoyning, for that the Lordſhips Marchers could not write to the Biſhop; neither ſhall Cognizance be granted in a <hi>Quare Impedit,</hi> becauſe the Inferior Court cannot write to the Biſhop. And herewith a<g ref="char:EOLhyphen"/>greeth Antiquity; <hi>Nullus alius praeter Regem, poteſt Epiſcopo demandare inquiſitionem faciendam.</hi> Bracton.</p>
+               </div>
+               <div type="section">
+                  <head>7. <hi>Biſhops Proceedings in Eccleſiaſtical Courts, under the Name, Style, Seal of the Biſhops, how warrantable.</hi>
+                  </head>
+                  <p>At the Seſſion of Parliament holden, <hi>Anno</hi> 4<hi rend="sup">o.</hi> 
+                     <hi>Jac.</hi>
+                     <note place="margin">
+                        <hi>Co.</hi> 2. I<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> 685, 686. <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> 
+                        <hi>Lib.</hi> 12 <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>
+                     </note> upon a Branch of an Act made at the firſt Seſſion, in the firſt Year of King <hi>James</hi> his Reign, for Continuance and Reviving divers Statutes, it was enacted, that an Act made in the firſt Year of Queen <hi>Mary, Stat.</hi> 2. <hi>c.</hi> 2. entituled, <hi>An Act for Repeal of certain Statutes made in the time of King</hi> Edward <hi>the ſixth,</hi> ſhould ſtand repealed and void. A doubt was moved concerning the Biſhops; which was divided into two Queſtions.</p>
+                  <p n="1">1. Whether any Biſhop made, eſpecially ſince the firſt day of that firſt Seſſion of Parliament, were lawful or no?</p>
+                  <p n="2">2. Whether the Proceedings in the Biſhops, or other Eccleſiaſtical Courts, be<g ref="char:EOLhyphen"/>ing made under the Name, Style and Seal of the Biſhops, were warranted by Law?</p>
+                  <p>And the reaſon of theſe two Doubts was this: By the Statute of 1 <hi>E.</hi> 6 <hi>c.</hi> 2. it was enacted, that Biſhops ſhould not be Elective, as before that time they had been; but Donative, by the King's Letters Patents.</p>
+                  <p>Secondly, By the ſaid Act is provided, that all Summons, Citations, and Pro<g ref="char:EOLhyphen"/>ceſs in Eccleſiaſtical Courts ſhould be made in the Name and Style of the King, and that their Proceſs ſhould be ſealed with a Seal of the King's Arms, <hi>&amp;c.</hi>
+                  </p>
+                  <p>And it was ſtrongly urged, that this Act of the firſt of <hi>Edward</hi> the Sixth was now in force; and conſequently, all Biſhops made (at the leaſt, ſince it became of force) by Election, <hi>&amp;c.</hi> and not by Donation, according to the ſaid Act of the firſt of <hi>Edward</hi> the Sixth, are unlawful; and all their Proceſs, Proceedings, being in their own Names, Styles and Seals (where, by the ſaid Act, they ought to have been in the King's Name, and under his Seal) were all unlawful and void. And to prove that the ſaid Act of <hi>Ann.</hi> 1. <hi>Ed.</hi> 6. was now in force, they alledged that this Act of the firſt of <hi>Edward</hi> the Sixth was repealed by the ſaid Act of the firſt of <hi>Mary</hi> above mentioned; which Act of Repeal, being repealed by the ſaid Branch of the firſt of <hi>Jacobus,</hi> conſequently the ſaid Act of the firſt of <hi>Edward</hi> the Sixth was thereby revived. For when an Act of Repeal is repealed, the firſt Act that
+<pb n="12" facs="tcp:56764:7"/>was repealed, is revived; and herewith agreeth the Book-Caſe, in the fifteenth of <hi>Edward</hi> the Third. <hi>Tit. Petition. Pl.</hi> 2. And this is true, and cannot be denied.</p>
+                  <p>The King having underſtanding hereof, and being informed of the Conſequents thereof, being matters tending not only to the infinite prejudice of his Subjects in Caſes of great Importance (eſpecially, if any Dioceſs had no Lawful Biſhop, or Ordinary; but, to the ſcandal and impeachment of his Majeſty's Juſtice, not only in thoſe Proceedings, but alſo in Adminiſtration of Juſtice, in certain Caſes, in his Courts of Common Law at <hi>Weſtminſter</hi>) commanded his two Chief Juſtices to conſider of the ſaid Objections, and to inform him of the true State thereof; that either the ſcruple conceived might be cleared and ſatisfied, or the Inconvenience (if any were) timely provided for, and prevented: who, upon timely conſidera<g ref="char:EOLhyphen"/>tion had of the ſaid Objection, agreed the Law to be (as the ſaid Caſe was put) as it had been taken. But upon further ſearch and conſideration had, other manifeſt and direct matters were found to ſatisfie and clear the ſaid ſcruple and queſtion; which afterwards was agreed and reſolved accordingly, by the Chief Baron, and other Judges then attending in the Upper Houſe of Parliament.</p>
+                  <p>For the underſtanding whereof it is to be obſerved, that the ſaid Act of the firſt of <hi>Edward</hi> the Sixth was repealed by three ſeveral Acts of Parliament; <hi>viz.</hi>
+                  </p>
+                  <p n="1">1. By the ſaid Statute of <hi>Ann.</hi> 1. <hi>Mar.</hi> in the whole.</p>
+                  <p n="2">2. By the Act of 1. <hi>&amp;</hi> 2. <hi>Ph. &amp; Mar. c.</hi> 8. by ſufficient words, as concerning the Name, Style and Seal of their Proceſs, <hi>&amp;c.</hi>
+                  </p>
+                  <p>And Laſtly, By the Statute of 1. <hi>Eliz. c.</hi> 1. the whole Act of 1. <hi>E.</hi> 6. is alſo re<g ref="char:EOLhyphen"/>pealed.</p>
+                  <p>For, <hi>Leges poſteriores priores contrarias abbrogant.</hi> And as a Man that is ſtrongly bound with three Cords, or Ligaments, albeit one or two of them be untied, or cut aſunder, remains bound notwithſtanding, by and with the ſecond or third, which remain firm and untouched; ſo a Statute repealed by force of three ſeveral Acts re<g ref="char:EOLhyphen"/>mains repealed ſo long as any of them remain in force, albeit one or two of them be made void. And therefore, although the Act of 1. <hi>Mar.</hi> be repealed by 1. <hi>Jac.</hi> yet the other two Acts remaining in force, the Act of <hi>Ann. Prim. E.</hi> 6. re<g ref="char:EOLhyphen"/>mains repealed.</p>
+                  <p>Firſt therefore, As to the Name, Style and Seal, <hi>&amp;c.</hi> in Eccleſiaſtical Courts, it is enacted by the 1. <hi>&amp;</hi> 2. <hi>Ph. &amp; Mar. c.</hi> 8. in theſe words.</p>
+                  <p>And the Eccleſiaſtical Juriſdiction of the Arch-Biſhops, Biſhops and Ordinaries to be in the ſame ſtate for Proceſs of Suits, puniſhment of Crimes, and Execution of Cenſures of the Church, with knowledge of Cauſes belonging to the ſame; and as large in thoſe points as the ſaid Juriſdiction was in <hi>Ann.</hi> 20. <hi>H.</hi> 8.</p>
+                  <p>By which Clauſe, if the Act of Repeal of 1. <hi>Mar.</hi> (now repealed) had never been made, the Act of 1. <hi>E.</hi> 6. as to the Name, Style and Seal in Eccleſiaſtical Proceed<g ref="char:EOLhyphen"/>ings, had been repealed by this latter Act of 1. <hi>&amp;</hi> 2. <hi>Ph. &amp; Mar.</hi>
+                  </p>
+                  <p>Secondly, But it was objected, that the Act of 1. <hi>&amp;</hi> 2. <hi>Ph. &amp; Mar.</hi> (which is the ſecond Cord or Ligament) is repealed by the Act of 1. <hi>Eliz. c.</hi> 1. To this it was anſwered, and reſolved, that this ſecond Cord or Ligament remains in force: for, true it is, that the Act of 1. <hi>Eliz.</hi> repeals the Act of 1. <hi>&amp;</hi> 2. <hi>Ph. &amp; Mar. Secun<g ref="char:EOLhyphen"/>dum quid,</hi> but not <hi>Simpliciter;</hi> for the Act of 1. <hi>Eliz.</hi> doth repeal every Branch and Article of 1. <hi>&amp;</hi> 2. <hi>Ph. &amp; Mar.</hi> other than for ſuch Branches as therein be except<g ref="char:EOLhyphen"/>ed. And afterwards, by another Branch of the ſaid Act of 1. <hi>Eliz.</hi> it is enacted, that all other Laws and Statutes repealed, and made void by the ſaid Act of 1. <hi>&amp;</hi> 2. of <hi>Ph. &amp; Mar.</hi> and not in that Act ſpecially mentioned and revived, ſhould ſtand, remain, and be repealed and void, as the ſame were before the making of that Act. But that Act of 1. <hi>Ed.</hi> 6. (as it hath been often ſaid) is ſufficiently repealed by the Act of 1. <hi>&amp;</hi> 2. <hi>Ph. &amp; Mar.</hi> as to the Name, Style and Seal, <hi>&amp;c.</hi> and the Act of 1. <hi>Ed.</hi> 6. is not ſpecially mentioned and revived by the Act of 1. <hi>Eliz.</hi> ſo the ſame remain repealed, by the Act of 1. <hi>&amp;</hi> 2. <hi>Ph. &amp; Mar.</hi>
+                  </p>
+                  <p>Thirdly, The third Act, which clearly repeals and annuls the Act of 1 <hi>Ed.</hi> 6. as well for the making and conſtituting Biſhops, as for the Name, Style and Seal of Proceſs, is the Act of 1. <hi>Eliz. c.</hi> 1. for that Act doth revive the Act of 25. <hi>H.</hi> 8. <hi>c.</hi> 20. and further enacteth, that the ſame ſhall ſtand in full force and effect, to all intents, Conſtitutions and Purpoſes. By which Act of 25. <hi>H.</hi> 8. it is enacted as followeth.</p>
+                  <pb n="13" facs="tcp:56764:7"/>
+                  <p>And that of every Avoidance of any Arch-Biſhoprick or Biſhoprick, the Kin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:punc">▪</g> his Heirs and Succeſſors, may grant to the Prior and Covent, or to the Dean and Chapter, a Licenſe under the Great Seal, as of old time hath been accuſtomed to proceed to an Election of an Arch-Biſhop, or Biſhop; with a Letter Miſſive, containing the Name of the Perſon which they ſhall elect and chuſe, <hi>&amp;c.</hi> And according to this Statute, revived by <hi>Ann.</hi> 1. <hi>Eliz.</hi> all Arch-Biſhops and Biſhops at this day be made: and if they were made according to the Act of 1. <hi>E.</hi> 6. they were unlawful.</p>
+                  <p>And further, it is enacted by the ſaid Act of 25 <hi>H.</hi> 8. That every Perſon choſen, elected, inveſted and conſecrated Arch-Biſhop or Biſhop, according to the form and effect of this Act, <hi>&amp;c.</hi> ſhall do and execute, in every thing and things, touching the ſame; as any Arch-Biſhop or Biſhop of this Realm, <hi>&amp;c.</hi> might at any time heretofore do. Which later Branch doth extend to all Proceſs and Proceedings in Eccleſiaſtical Courts, and that the ſame ſhall be in ſuch ſort as the ſame were before the Act of 25. <hi>H.</hi> 8. and before that Act, the Name, Style and Seal of their Proceſs, <hi>&amp;c.</hi> were as now they be.</p>
+                  <p>And the ſaid Act of 1. <hi>Eliz.</hi> reviving the Act of 25. <hi>H.</hi> 8. doth impliedly re<g ref="char:EOLhyphen"/>peal the Act of 1. <hi>E.</hi> 6. which had repealed the 25. <hi>H.</hi> 8. in both the ſaid points: For, as by repealing of a Repeal, the firſt Act is revived; ſo by reviving of an Act repealed, the Act of Repeal is made of no force.</p>
+               </div>
+               <div type="section">
+                  <head>8. <hi>The Biſhops with what Council asſiſted.</hi>
+                  </head>
+                  <p>Every Biſhop is aſſiſted with a Council. For,
+<note place="margin">
+                        <hi>Co. Lib.</hi> 3. <hi>Le cafe del Dean &amp; Cha<g ref="char:EOLhyphen"/>piter. f.</hi> 75. <hi>a.</hi>
+                     </note> ſeeing it was impoſſible that the Church of God ſhould continue without Sects and Hereſies, it was in Chri<g ref="char:EOLhyphen"/>ſtian Policy thought neceſſary, that every Biſhop ſhould be aſſiſted with a Coun<g ref="char:EOLhyphen"/>cil, and with a Chapter; and that for two Reaſons.</p>
+                  <p n="1">1. To conſult with them in matters of difficulty, and to aſſiſt the Biſhop in deciding of Controverſies in point of Religion. And to this purpoſe every Bi<g ref="char:EOLhyphen"/>ſhop hath a Chair.</p>
+                  <p n="2">2. To conſent to every grant the Biſhop ſhall make to bind his Succeſſors; for the Law did not judge it reaſonable to repoſe ſuch Confidence in him alone. At firſt all the Poſſeſſions were to the Biſhop, after, a certain Portion was aſſigned to the Chapter; therefore the Chapter was before they had any Poſſeſſions. And of Common Right the Biſhop is Patron of all the Prebends, becauſe their Poſſeſ<g ref="char:EOLhyphen"/>ſions were derived from him. So that ſo long as the Biſhoprick continues (the Dean and Chapter being his Counſel) remains, though they have no Poſſeſſions, as at firſt they were, when the Biſhoprick conſiſted all of Spiritualty.</p>
+               </div>
+               <div type="section">
+                  <head>Of their Dominion and Property.</head>
+                  <p>HEretofore Biſhops, with the Confirmation of the Dean and Chapter,
+<note place="margin">
+                        <hi>Co. Litt.</hi> 44. <hi>a.</hi>
+                     </note> might have made Leaſes for Lives or Years, without Limitation or Stint. And
+<pb n="14" facs="tcp:56764:8"/>ſo might they have made Gifts in Tall, and Eſtates in Fee, at their Will and Pleaſure. Whereupon, not only great decay of Divine Service, but Dilapi<g ref="char:EOLhyphen"/>dations, and other Inconveniences enſued: and they were diſabled and reſtrain<g ref="char:EOLhyphen"/>ed by ſeveral Acts of Parliament, to make any Eſtate, or Conveyance to the King at all, or to the Subject; but there is excepted out of the Reſtraint or Diſ<g ref="char:EOLhyphen"/>ability, Leaſes for three Lives, or twenty one Years, with Reſervation of Rent, and with other Proviſions and Limitations.</p>
+                  <p>To be ſhort, as the Biſhops cannot utterly diveſt themſelves of their Lands and Revenues, ſo ought not their Rights to be liable to the Sacrilegious Rapine of others; for, <hi>Quod datum eſt Eccleſiae, Deo datum eſt.</hi> Which ſacred Maxim the Roal Martyr very well underſtood, when he uſed theſe very words, <hi>viz.</hi>
+                  </p>
+                  <p>
+                     <hi>There are ways enough to repair the Breaches of the State, without the Ruines of the Church; as I would be a Reſtorer of one, ſo I would not be an Oppreſſor of the other, under the pretence of Publick Debts. The Occaſions contracting them were bad enough, but ſuch a diſcharging of them would be much worſe. I pray God neither I, nor mine, may be acceſ<g ref="char:EOLhyphen"/>ſary to either.</hi>
+                  </p>
+                  <p>And indeed, well might this moſt Religious Prince thus pray; for, without doubt, the Sin of Sacrilege is a very horrid Crime. <hi>Proximum Sacrilegio Crimen eſt, quod Majeſtatis dicitur,</hi> Treaſon is a petty Sin, in reſpect of Sacrilege. St. <hi>Auſtin</hi> ſeems to give the Reaſon; <hi>Tanto gravius eſt peccatum, quanto commit<g ref="char:EOLhyphen"/>ti non poteſt, niſi in Deum. Thou that abhorreſt Idols, committeſt thou Sacrilege?</hi> Which words of the Apoſtle St. <hi>Paul</hi> are ſpecially to be noted by them that pre<g ref="char:EOLhyphen"/>tend mainly againſt Superſtition and Idolatry, yet are hotly ſet for Sacrilege.</p>
+                  <p>Further, As this Sin of Sacrilege in its own Nature is very abominable, ſo it is dangerous more ways than one.</p>
+                  <p n="1">1. To private Men that commit it. Make them like a Wheel, as Stubble before the Wind, fill their faces with ſhame, who ſaid, <hi>Let us take the Houſes of God to our ſelves in poſſeſſion,</hi> Pſal. 83.</p>
+                  <p n="2">2. To more publick Perſons, even to the Heads, and Principal Members of the Commonwealth, the Kings and Princes thereof; ſee <hi>Daniel c.</hi> 5. concern<g ref="char:EOLhyphen"/>ing <hi>Belſhazzar.</hi>
+                  </p>
+                  <p>Our own Annals tell us of King <hi>William Rufus</hi> and his Nephew, the Son of <hi>Robert,</hi> Duke of <hi>Normandy;</hi> both ſlain in Hunting, in the ſame Foreſt that the Conqueror his Father, and Grandfather to his Nephew, had made, and himſelf had augmented, with the utter Ruin of many Chappels, Churches and Religi<g ref="char:EOLhyphen"/>ous Houſes.</p>
+                  <p n="3">3. To the Commonwealth it ſelf. This Sin in <hi>Achan</hi> became not a Snare to himſelf, in which he was taken; but all <hi>Iſrael</hi> was troubled by the ſin of that one <hi>Achan; Joſhua c.</hi> 7.</p>
+                  <p>But after all this, it may be demanded of me, whether this will take away the nature of ſin from the Alienation of Church-Lands, that it is done by a National Aſſembly of the States in Parliament?</p>
+                  <p>I anſwer, that this will not take from Sacrilege the nature of ſin, that it is
+<pb n="15" facs="tcp:56764:8"/>done by a National Aſſembly, giving their Sanction thereunto: for the Pro<g ref="char:EOLhyphen"/>ceedings and Sanctions of a National Council muſt be by Rule from God; o<g ref="char:EOLhyphen"/>therwiſe they become more out of meaſure ſinful, than Actions of like Quality in private Men. The Laws of State are not therefore juſt, becauſe enacted by the State; but when they agree with the common Rules of Juſtice, that God has beſtowed upon the Sons of Men.</p>
+                  <p>To conclude, To do that by a Law, which ſhould be enacted for preventi<g ref="char:EOLhyphen"/>on of Sin, and not for Commiſſion, is to make it the more ſinful. <hi>Shall the Throne of Iniquity have Fellowſhip with thee, that frameth miſchief by a Law?</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>10. <hi>What the King hath after the Death of every Biſhop.</hi>
+                  </head>
+                  <p>IT appeareth by many Records in the Reign of <hi>Henry</hi> the Third,
+<note place="margin">
+                        <hi>Co.</hi> 2. <hi>Inst.</hi> 491. 1. <hi>Co.</hi> 4. <hi>Inſt. f.</hi> 388.</note> and <hi>Ed<g ref="char:EOLhyphen"/>ward</hi> the Second; that, by the Law and Cuſtom of <hi>England,</hi> no Biſhop could make his Will of his Goods or Chattels coming of his Biſhoprick, <hi>&amp;c.</hi> without the King's Licenſe.</p>
+                  <p>The Biſhops, that they might freely make their Wills, yielded to give to the King, after their Deceaſes reſpectively, for ever, ſix things.</p>
+                  <list>
+                     <item>1. Their beſt Horſe, or Palfrey, with Bridle and Saddle.</item>
+                     <item>2. A Cloak with a Cape.</item>
+                     <item>3. One Cup with a Cover.</item>
+                     <item>4. One Baſon and Ewer.</item>
+                     <item>5. One Ring of Gold.</item>
+                     <item>6. His Kennel of Hounds.</item>
+                  </list>
+                  <p>For theſe a Writ iſſueth out of the Exchequer after the Deceaſe of Every Biſhop.</p>
+               </div>
+               <div type="section">
+                  <head>11. <hi>Biſhopricks whether Saleable.</hi>
+                  </head>
+                  <p>AS, <hi>In omni re naſcitur res quae ipſam rem exterminat,</hi>
+                     <note place="margin">
+                        <hi>Co.</hi> 2. <hi>Juſt. f.</hi> 15.</note> (as the Worm in the Wood, or the Moth in the Cloth, and the like) ſo often times no Profeſ<g ref="char:EOLhyphen"/>ſion receives a greater blow, than by one of their own Coat. For <hi>Ranulph,</hi> an Eccleſiaſtical Perſon, and King <hi>William Rufus</hi> his Chaplain, was a Factor for the King in making Merchandize of Church-Livings; in as much as when any Arch-Biſhoprick, Biſhoprick, or Monaſtery became void,</p>
+                  <p>Firſt, He perſwaded the King to keep void a long time; and converted the Profits thereof, ſometime by Letting, and ſometime by Sale of the ſame:
+<pb n="16" facs="tcp:56764:9"/>whereby the Temporalties were exceedingly waſted and deſtroyed.</p>
+                  <p>Secondly, after a long time no man was preferred to them, <hi>per Traditionem Annuli &amp; Baculi;</hi> by Livery of <hi>Seizan,</hi> as the old faſhion was; but by Bargain and Sale from the King, to him that would give moſt: by means whereof the Church was ſtuffed with unworthy and inſufficient Men; and many Men of lively Wits, and towardlineſs in Learning, deſpairing of Preferment, turned their Studies to other Profeſſions. This <hi>Ranulph,</hi> for ſerving the King's Turns, was advan<g ref="char:EOLhyphen"/>ced; firſt, To be the King's Chancellor, and after to be Biſhop of <hi>Durham.</hi> Who after his Advancement to ſo high Dignities, made them Servants to his Sacrilegious and Symoniacal Deſigns. King <hi>Henry</hi> the Firſt, ſeeing this miſ<g ref="char:EOLhyphen"/>chief, and foreſeeing the great inconvenience that would follow thereupon, was contented, for his own time, to bind his own hands; to the end the Church now naked and bare, might receive ſome comfort, and have means to provide things neceſſary for their Profeſſion and Calling. He thereupon, at his Coro<g ref="char:EOLhyphen"/>nation made a Charter to this effect.
+<note place="margin">
+                        <hi>Vide Magna Charta. c.</hi> 1.</note> 
+                     <hi>Quia Regnum oppreſſum erat injuſtis exactio<g ref="char:EOLhyphen"/>nibus, ego, in Reſpectu Dei, &amp; amore quem erga vos omnes habeo, Sanctam Dei Ec<g ref="char:EOLhyphen"/>cleſiam imprimis liberam facio, Ita quod nec vendam, nec ad firmam ponam, nec Mor<g ref="char:EOLhyphen"/>tuo Archiepiſcopo, ſive Epiſcopo, vel Abbate, aliquid accipiam de Domino Eccleſiae, vel hominibus ejus, donec Succeſſor eam ingrediatur, &amp; omnes malas Conſuetudines, quibus Regnum Angliae opprimebatur, inde aufero.</hi>
+                  </p>
+                  <p>He committed the ſaid <hi>Ranulph,</hi> then Biſhop of <hi>Durham,</hi> to Priſon for his intolerable Miſdeeds and Injuries to the Church: where he lived without love, and died without pity, ſaving of thoſe that thought it pity he lived ſo long.</p>
+                  <p>I will cloſe this Section with a Sentiment of the Imperial Law, touching buy<g ref="char:EOLhyphen"/>ing and ſelling.</p>
+                  <p>
+                     <hi>Non pretio,</hi>
+                     <note place="margin">
+                        <hi>C.</hi> 1.3.31:</note> 
+                     <hi>ſed precibus ordinetur Antiſtes. Tantum ab ambitu debet eſſe ſepoſitus, ut quaeratur cogendus, rogatus recedat, invitatus effugiat, ſola illa ſuffragetur neceſſitas excuſandi. Profecto enim indignus eſt Sacerdotio, niſi fuerit ordinatus invitus. Ne<g ref="char:EOLhyphen"/>mo gradum Sacerdotii pretii venalitate mercetur, quantum quiſque mereatur, non quan<g ref="char:EOLhyphen"/>tum dare ſufficiat, aeſtimetur.</hi>
+                  </p>
+                  <p>
+                     <hi>Epiſcopus non pretio, ſed precibus ordinandus eſt.</hi> Gothofredus.</p>
+               </div>
+               <div type="section">
+                  <head>12. <hi>Their Right of Sitting in Parliament.</hi>
+                  </head>
+                  <p>THe Spiritual Lords do ſit in the King's great Council in Parliament, by the ſame Right that the Temporal Lords do; and that is by reaſon of their Ancient Baronies. For, although originally, all the Poſſeſſions of Biſhops, Ab<g ref="char:EOLhyphen"/>bots and Priors were given and holden in <hi>Frankalmoigne;</hi> yet, ſhortly after the <hi>Norman</hi> Conqueſt, their Tenures were altered, <hi>viz. Per Baroniam;</hi> as appeareth by <hi>Mathew Paris, Anno</hi> 1070. 66. and of that Tenure have continued ever ſince, as ſhall be apparented by the Conſultations of <hi>Clarendon,</hi> in the Reign of <hi>Henry</hi> the Second; by <hi>Glanvil,</hi> and other Authorities.</p>
+                  <p>In the Conſtitution held at <hi>Clarendon,</hi>
+                     <note place="margin">
+                        <hi>Co.</hi> 2. <hi>Inſt. f.</hi> 6.</note> 
+                     <hi>tempore H.</hi> 2. <hi>Ann.</hi> 1164. Certain Re<g ref="char:EOLhyphen"/>capitulations of the Prerogative of the King and his People, then ſought to be infringed by the Pope and his Clergy; it is thus expreſſed in the eleventh Ar<g ref="char:EOLhyphen"/>ticle, <hi>Archiepiſcopi &amp; Epiſcopi, &amp; univerſa perſona Regni, qui de Rege tenent in Ca<g ref="char:EOLhyphen"/>pite,
+<pb n="17" facs="tcp:56764:9"/>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> poſſeſſiones ſuas de Rege ſicut Baroniam &amp; inde reſpondeant Juſtatiarii<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>, <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> Regis &amp; ſicut Caeteri Baro<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap> debeam intereſſe Curiae Regis cum Baronibus q<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>uſqu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> perveniatur ad diminutionem Membrorum, vel mortem.</hi>
+                  </p>
+                  <p n="2">2. <hi>Glanvil,</hi> the moſt ancient Writer of the Laws of this Realm now extant,
+<note place="margin">
+                        <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                     </note> hath theſe words; <hi>Notandum autem, quod nec Epiſcopus, nec Abbas quia eorum Baroniae ſunt de Elcemeſyna Regis, &amp; Anteceſſoris ejus, non poſſunt de Dominicis ſuts aliquam partem dare ad Remanentiam, ſine aſſenſu, &amp; Confirmatione Domini Regis.</hi>
+                  </p>
+                  <p n="3">3. My third Authority ſhall be a notable Record in the Reign of <hi>Henry</hi> the Third; and it is this.</p>
+                  <p>
+                     <hi>Mandatum eſt omnibus Epiſcopis qui Conventuri ſunt apud</hi> Gloceſtriam <hi>die Sabba thi in Craſtino Sanctae Katharinae firmiter inhibendo, quod ſicut Baronias ſuas,</hi>
+                     <note place="margin">
+                        <hi>Rot Pat. <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap>
+                        </hi> 3.2. <hi>part. <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> de Pro<gap reason="illegible" resp="#KEYERS" extent="6 letters">
+                              <desc>••••••</desc>
+                           </gap>e fact. Epi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>.</hi>
+                     </note> 
+                     <hi>quas de Rege tenent) diligunt, nullo modo praeſumant Conſilium tenere de aliquibus quae ad Coro<g ref="char:EOLhyphen"/>nam Regis pertinent, vel quae perſonam Regis, vel Statum ſuum, vel Statum Concilii ſui contingunt. Scituri pro certo quod ſi fecerint, Rex inde ſe capiet ad Baronias ſuas.</hi>
+                  </p>
+                  <p n="4">4. Mr. <hi>Cambden</hi> in his <hi>Britannia</hi> tells us, that the two Arch-Biſhops, and all the Biſhops of <hi>England,</hi> be Barons of the Kingdom and Parliament, unto whom by Right and Cuſtom it appertains, as to Peers of the Kingdom, to be with the reſt of the Peers perſonally preſent at all Parliaments whatſoever; there to con<g ref="char:EOLhyphen"/>ſult, to handle, to ordain, decree and determine, in regard of the Baronies which they hold of the King. For <hi>William</hi> the firſt a thing the Church-men of that time complained of, but thoſe in the Age enſuing accounted it their greateſt Honour) <hi>ordained Biſhopricks and Abbies, which hold Baronies in pure, and perpetual Alms, and until that time, were free from all Secular Service; to be under Military, or Knight-Service; enrolling every Biſhoprick and Abbey at Will and Pleaſure, and appointing how many Soldiers he would have every one of them to find for him and his Succeſſors, in the time of Hoſtility and War.</hi> From that time, ever ſince (ſays he) thoſe Eccleſiaſtical Perſons enjoyed all the Immunities that Barons of the King<g ref="char:EOLhyphen"/>dom did, ſaving only they were not to be judged by their Peers.</p>
+                  <p n="5">5. Sir <hi>Edward Coke,</hi> in ſeveral places of his Works, aſſerts,
+<note place="margin">
+                        <hi>Co.</hi> 2. <hi>Inſt. f.</hi> 3, 79 585. <hi>Co. Lit.</hi> 97. <hi>a.</hi> 94. <hi>a. C<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>.</hi> 4 <hi>Inſt f.</hi> 361.</note> that the Biſhops of <hi>England</hi> have been founded by the Kings of <hi>England,</hi> and do hold of the King by Barony, and have been all called by Writ to the Court of Parliament, and are Lords of Parliament.</p>
+                  <p>To what has been ſaid in the proof of the Biſhops Right, of ſitting in Parlia<g ref="char:EOLhyphen"/>ment, this may be added;
+<note place="margin">Judge <hi>D<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>idg</hi> in his Treatiſe of Nobility concerning Ba<g ref="char:EOLhyphen"/>rons by Ten<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>re</note> That it appeareth by all ancient Writers of our Laws and Hiſtories, that the Arch-Biſhops and Biſhops of the Realm, in the an<g ref="char:EOLhyphen"/>tient <hi>Saxons</hi> days; as well during the time that this Realm was divided into di<g ref="char:EOLhyphen"/>vers Kingdoms, as alſo after the uniting of them into one Monarchy, were cal<g ref="char:EOLhyphen"/>led to the Parliament, or Aſſembly of States or Wiſe Men; not ſo much in re<g ref="char:EOLhyphen"/>ſpect of their Tenure; for, in thoſe days all their Tenures were (as is ſaid be<g ref="char:EOLhyphen"/>fore) by <hi>Frankalmoigne:</hi> but eſpecially for that Laws and Counſels of Men are then moſt currant and commendable, and have a more bleſſed iſſue and ſucceſs, when they are grounded upon the fear of God, the Root and Beginning of all true Wiſdom. And therefore our wiſe and Religious Anceſtors called to their General Council, or <hi>Witten A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>mote,</hi> or Court of Wiſdom (as they called it) thoſe chief and principal Perſons of the Clergy; which, by their Place and Profeſſion, by their Gravities, Learning and Wiſdom, might beſt adviſe what was the Law of God's acceptable Will and Pleaſure, that they might frame their Humane Laws anſwerable; or, at leaſt, not contrary and repugnant thereunto.</p>
+                  <pb n="18" facs="tcp:56764:10"/>
+                  <p>To Second Judge <hi>Dodridge</hi> in the Probation of our Biſhops ſitting in the Aſ<g ref="char:EOLhyphen"/>ſembly of States, or Wiſe Men, before the Conqueſt, I ſhall offer theſe Autho<g ref="char:EOLhyphen"/>rities following.</p>
+                  <p>At a Parliament holden by King <hi>Inas, Anno Domini</hi> 727. the Statutes began thus; <hi>Ego</hi> Inas <hi>Dei beneficio Rex, ſuaſu &amp; Inſtituto Cenredi patris mei, Hedda &amp; Erkenwaldi Epiſcoporum meorum, omnium Senatorum meorum &amp;c.</hi>
+                  </p>
+                  <p>The Concluſion of the Parliament holden, <hi>Ann.</hi> 940. by King <hi>Athelſtan,</hi> at <hi>Grately,</hi> was thus. <hi>All this was enacted in the great Synod; whereat was the Arch-Biſhop</hi> Wolfehelme, <hi>with all the Noble Men, and Wiſe men, which King</hi> Athelſtan <hi>called together. Co. Lit.</hi> 110. <hi>a. Co.</hi> 2. <hi>Inſt.</hi> 268.</p>
+                  <p>King <hi>Edovard,</hi> and <hi>Phlegmond.</hi> Arch-Biſhop of <hi>Canterbury,</hi> aſſembled a great Council of Biſhops, and other faithful People, <hi>&amp;c. Matth. Weſtm. Lib.</hi> 1. <hi>ſub Ann.</hi> 905.</p>
+                  <p>
+                     <hi>Ingulphus,</hi> who died before 1109. ſaith: <hi>Rex</hi> Eldvedus <hi>convocavit Magnates Epiſcopos, Proceres &amp; Optimates ad tractandum de publicis negotiis Regni: Co.</hi> 4. <hi>Inſt. f.</hi> 3.</p>
+                  <p>The Reader may ſee more of this matter in the Preface of the Ninth Part of <hi>Coke</hi>'s Reports.</p>
+               </div>
+               <div type="section">
+                  <head>13. <hi>Their Right of making Proxies, whenſoever Queſtion is had of the Attainder of any Peer.</hi>
+                  </head>
+                  <p>IT appears by our Books of Law, that ever when Queſtion is had of any At<g ref="char:EOLhyphen"/>tainder of any Peer in Parliament, they depart the Higher Houſe, and make their Procurators. For, by the Decrees of the Church, they may not be Judges of Life and Death.</p>
+                  <p>In the tenth Year of <hi>Edward</hi> the Fourth,
+<note place="margin">10. <hi>E.</hi> 4.6. <hi>b.</hi>
+                     </note> it is ſaid by <hi>Littleton; Quantum Seignior eſt indict, &amp;c. Ceo ſerra mand en le Parliament, &amp; la le Seignior, Seneſ<g ref="char:EOLhyphen"/>chall d'Anglete'rre luy mitta as Reſpons &amp; il dirra de Rieu culpable &amp; ceo ſerra trie per pares ſuos, &amp;c. donques les Seignieurs Spirituels, que ne poient conſent al mort de home, ferrount un Procurator en le Parliament.</hi>
+                  </p>
+                  <p>
+                     <hi>When a Lord is indicted, it ſhall be returned into Parliament, and there the Steward of</hi> England <hi>ſhall put him to anſwer, and he ſhall ſay,</hi> Not Guilty; <hi>and this ſhall be tried by his Peers: and then the Lords Spiritual, who may not conſent to the death of a<g ref="char:EOLhyphen"/>ny Man, ſhall make their Procurators in Parliament.</hi>
+                  </p>
+                  <p>
+                     <hi>Stamford,</hi>
+                     <note place="margin">
+                        <hi>Lib.</hi> 3. <hi>f.</hi> 153. <hi>A, B.</hi>
+                     </note> in his Pleas of the Crown, informeth us; <hi>Que Eveſque ne ount lieu en Parliament en Reſpect de lour nobilitie, mes en reſpect de lour Poſſeſſion <gap reason="blank" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap> L'an<g ref="char:EOLhyphen"/>tient Baronies annexes a lour Dignities.</hi> And he further ſays, that a Peer indicted of Treaſon or Felony, may, if the King pleaſe, be arraigned of it in Parlia<g ref="char:EOLhyphen"/>ment: and then the Lords Spiritual ſhall make a Procurator for them. <hi>Eo que per le Canonicall Leges, ils meſmes ne doint condemner aſuma Mort.</hi>
+                  </p>
+                  <pb n="19" facs="tcp:56764:10"/>
+                  <p>Mr. Juſtice <hi>Dodridge,</hi> on the Conſtitution of <hi>Clarenden</hi> of <hi>Henry</hi> the Second, before-mentioned, tells us thus. Here we ſee (ſays he) the Preſence of the Bi<g ref="char:EOLhyphen"/>ſhops in the Parliament in reſpect of their Baronies: <hi>Quouſque perveniatur ad diminutionem, &amp;c.</hi> For ever unto our times, when Queſtion is had of any At<g ref="char:EOLhyphen"/>tainder of any Peer in Parliament, they depart the Higher Houſe, and make their Procurators. <hi>Vide,</hi> His Treatiſe of the Barons of the Realm.</p>
+                  <p>A Peer of the Realm (ſays <hi>Coke</hi>) being indicted of Treaſon or Felony,
+<note place="margin">
+                        <hi>Co.</hi> 3 <hi>Inſt f.</hi> 
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>1.</note> or of Miſpriſion, and duly tranſmitted to the Lords, may be arraigned thereof in the Upper Houſe of Parliament; but then there muſt be appointed a Steward of <hi>England,</hi> who ſhall put him to anſwer. And if he plead, <hi>Not Guilty,</hi> he ſhall be tryed <hi>per Pares ſuos;</hi> and then the Lords Spiritual muſt withdraw, and make their Proxies.</p>
+                  <p>Again, ſays <hi>Coke,</hi> A Peer of the Realm, being indicted of Treaſon,
+<note place="margin">
+                        <hi>Co.</hi> 4. <hi>Inſt</hi> 
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </note> or Fe<g ref="char:EOLhyphen"/>lony, or Miſpriſion of Treaſon, may be arraigned thereof in Parliament, a Lord Steward being appointed: and then the Lords Spiritual ſhall make a Pro<g ref="char:EOLhyphen"/>curator for them.</p>
+                  <p>By theſe four Authors, <hi>Littleton, Stamford, Dodridge</hi> and <hi>Coke</hi> (on whoſe Sleeve I ſhould as ſoon pin my Faith, as upon any four Lawyers, famous in their Profeſſion, ſince my firſt Admittance into an Inns of Court;) It is aſſerted, that the Prelates, upon their withdrawing in Capital Caſes, have a Right to make their Procurators. They depart the Houſe, not by vertue of any Rule at the Common Law, but in vertue of an old Eccleſiaſtical Canon. They make their Proxies, not as they are Spiritual Perſons, but in reſpect of their Tem<g ref="char:EOLhyphen"/>poral Baronies. To be ſhort, If I ſhould hear, that the Opinion of theſe four moſt eminent Lawyers is over-ruled by our Sages, by vertue of that Spell called <hi>Error Temporis,</hi> it will caſt me undoubtedly, not into an Admiration, but an Extaſie.</p>
+               </div>
+               <div type="section">
+                  <head>14. <hi>Statutes where made without them.</hi>
+                  </head>
+                  <p>ALthough the Biſhops have a Right of ſitting in Parliament, and ought al<g ref="char:EOLhyphen"/>ways to be called to that great Council, yet Statutes have been good with<g ref="char:EOLhyphen"/>out their Lordſhips. And that in three ſeveral Caſes.</p>
+                  <p n="1">1. If they voluntarily abſent themſelves, then may the King, the Nobles and Commons make an Act of Parliament without them. As, where any Offender is to be attainted of High Treaſon, or Felony, and the Biſhops abſent themſelves, and the Act proceed, the Act is good and perfect.</p>
+                  <p n="2">2. If they be preſent, and refuſe to give any Voices, and the Act proceed; the Act of Parliament is good without them.</p>
+                  <p n="3">3. Where the Voices in Parliament ought to be abſolute, either in the Affir<g ref="char:EOLhyphen"/>mative or Negative, and they give their Voices with Limitation or Condition, and the Act proceeds; the Act is good, for their Conditional Voices are no Voices. Examples for theſe Particulars the Reader may find in <hi>Coke</hi>'s 2. <hi>Inſt. f.</hi> 585, 588.</p>
+                  <pb n="20" facs="tcp:56764:11"/>
+                  <p>Note, Albeit Statutes have been made without the Biſhops, yet they are ac<g ref="char:EOLhyphen"/>counted one of the Eſtates of Parliament: as it appears by my Lord <hi>Coke,</hi> in the very beginning of the fourth Part of his Inſtitutes. But it is pretended by ſome, that they are not: for if they were, then ſhould they diſcuſs Mat<g ref="char:EOLhyphen"/>ters ſeparately, by themſelves, from the other Lords, as the Commons now do.</p>
+                  <p>I deny the Conſequence; for our Books tell us; That, at the firſt, both Houſes ſate together. Pray, how many Eſtates were they then? if it be anſwered, that there were but two; why? then this ſhews that two Eſtates may diſcuſs Matters together, both in one and the ſame Houſe.</p>
+               </div>
+               <div type="section">
+                  <head>15. <hi>Their Privileges, as they are Lords of Parliament.</hi>
+                  </head>
+                  <p>THe Biſhops, in the Right of their Temporal Baronies, do enjoy all the Im<g ref="char:EOLhyphen"/>munities that the Nobility, and Peers of Parliament do; ſaving only, they are not to be judged by their Peers. And the reaſon of this is, becauſe the Biſhops cannot paſs, in like Caſes, upon the Tryal of any other of the Peers; for that they are prohibited by the Canons of the Church, to be Judges of Life and Death. And reaſon would, that the other Peers ſhould not try them: for this Tryal ſhould be mutual, for as much as it is performed upon their Ho<g ref="char:EOLhyphen"/>nours, without any Oath taken.</p>
+                  <p>Now, the Privileges that the Biſhops claim, as Peers of the Realm are ſuch as theſe following.</p>
+                  <p n="1">1. The Perſon of a Biſhop ſhall not be arreſted, in Debt, or Treſpaſs, by his Body.</p>
+                  <p n="2">2. If a Biſhop be Demandant, or Plaintiff; Tenant, or Defendant, there muſt be a Knight returned of his Jury, or elſe the Array may be quaſhed.</p>
+                  <p n="3">3. Arch-Biſhops and Biſhops are not bound to attend Leets, nor to take the Oath there adminiſtred.</p>
+                  <p n="4">4. A Day of Grace is never granted, where a Biſhop is Tenant or Defen<g ref="char:EOLhyphen"/>dant.</p>
+                  <p n="5">5. If a Biſhop be Defendant in Star-Chamber, or Court of Chancery, a <hi>Sub<g ref="char:EOLhyphen"/>poena</hi> ſhall not be awarded; but a Letter from the Lord Chancellor, or Lord Keeper, in lieu thereof.</p>
+                  <p n="6">6. Every Arch Biſhop or Biſhop coming to the King at his Commandment, and paſſing by any of the King's Foreſts, may hunt and kill one or two of the King's Deer.</p>
+                  <p n="7">7. If a Biſhop be Party to a Suit, and would be eſſoigned; he that caſts the Eſſoigne out, muſt put in Sureties to prove the Cauſe. Which is not uſual in the Caſe of a Common Perſon.</p>
+                  <p n="8">
+                     <pb n="21" facs="tcp:56764:11"/>8. If a Plaintiff recover againſt a Biſhop, in an Action of Debt, or Treſpaſs, upon ſuch a Plea pleaded by him, or other Default in him; ſo that a Fine there<g ref="char:EOLhyphen"/>by doth grow to the King, and thereupon a <hi>Capias p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>o Fine</hi> iſſueth out againſt him; this ſhall not prejudice the Biſhop, ſo as the Plaintiff may thereby take ad<g ref="char:EOLhyphen"/>vantage by Prayer, that the Biſhop ſhall abide in Execution. <hi>&amp;c.</hi>
+                  </p>
+                  <p n="9">9. Whereas by a Statute made in 32. <hi>H.</hi> 8 <hi>c</hi> 16. it is enacted, that the Sub<g ref="char:EOLhyphen"/>jects of the Realm ſhall not keep in their Families, or Houſes, above the number of four Strangers born; nevertheleſs, by a Proviſo in the ſaid Act, every Lord of Parliament hath his Privilege allowed unto him, to keep in his Family the number of ſix Strangers born: any thing in that Act to the contrary not<g ref="char:EOLhyphen"/>withſtanding.</p>
+                  <p n="10">10. By the Statute of <hi>Weſt.</hi> 1. <hi>c.</hi> 34. If any Perſon ſhall divulge falſe Tales of any of the Lords of Parliament, by which Diſſention may be betwixt the Commons and them, the Offender is to be impriſoned until he bring forth the Author.</p>
+                  <p>In brief; My Lords, the Biſhops (as 'tis ſaid before) may challenge a Fruiti<g ref="char:EOLhyphen"/>on of all the Privileges, in virtue of their Baronies, that the Lords Temporal can by virtue of theirs; ſaving only, the Biſhops cannot be tryed by their Peers. Which manner of Tryal was (as I am informed) brought into this Realm by <hi>William</hi> the Conqueror, being anſwerable to the <hi>Norman</hi> and <hi>French</hi> Laws, and agreeable to the Cuſtoms <hi>Feudal;</hi> where almoſt all the Controver<g ref="char:EOLhyphen"/>ſies ariſing between the Sovereign and his Vaſſal are tryed, <hi>per Judicium Parium ſuorum.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>16. <hi>Their Precedency.</hi>
+                  </head>
+                  <p>SIr <hi>Edward Coke,</hi> treating on the Statute of the thirty firſt of <hi>Henry</hi> the Eighth, <hi>c.</hi> 10. concerning the Precedency of the King's great Officers, hath theſe ſame words.</p>
+                  <p>
+                     <hi>And firſt,</hi>
+                     <note place="margin">
+                        <hi>Cok<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </hi> 4. <hi>Inst.</hi> 36<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </note> 
+                     <hi>for the Lords Spiritual (who ſit in Parliament on the King's Right Hand) amongſt themſelves.</hi>
+                  </p>
+                  <p n="1">1. <hi>The Arch-Biſhop of</hi> Canterbury.</p>
+                  <p n="2">2. <hi>The Arch-Biſhop of</hi> York <hi>on the ſame form.</hi>
+                  </p>
+                  <p n="3">3. <hi>The Biſhop of</hi> London.</p>
+                  <p n="4">4. <hi>The Biſhop of</hi> Durham.</p>
+                  <p n="5">5. <hi>The Biſhop of</hi> Wincheſter.</p>
+                  <p>
+                     <hi>And then all the other Biſhops of both Provinces ſhall ſit, and be placed after their Antienties, as before this Act was accuſtomed.</hi>
+                  </p>
+                  <pb n="22" facs="tcp:56764:12"/>
+                  <p>
+                     <hi>But having regard to the Lords, and Noble Peers of the Realm, both the Arch-Bi<g ref="char:EOLhyphen"/>ſhops have place above all the great Officers and Nobility in Parliament, Council and Commiſſions, ſaving in the Star-Chamber, the Lord Chancellor, or Lord Keeper hath the Precedency of them. But the other Biſhops have place above all the Barons of the Realm; becauſe they hold their Biſhopricks of the King,</hi> per Baroniam; <hi>but they give place to Viſcounts, Earls, Marqueſſes and Dukes.</hi>
+                  </p>
+                  <p>Note, that in the penning of all Acts of Parliament, the Lords Spiritual have the Preſeance of the Lords Temporal.</p>
+                  <p>And this ſhall ſuffice for the placing of the Lords Spiritual in Parliament, <hi>&amp;c.</hi> according to Sir <hi>Edward Coke.</hi> I will offer ſomething out of Mr. <hi>Seagar,</hi> the famous Herauld, touching Preſeance in Provincial Aſſemblies and elſewhere.</p>
+                  <p>When the Arch-Biſhop of <hi>Canterbury</hi> ſitteth in his Provincial Aſſembly, he hath on his Right Hand the Arch-Biſhop of <hi>York,</hi> and next unto him the Biſhop of <hi>Wincheſter;</hi> and on the Left Hand the Biſhop of <hi>London.</hi> But if it fall out, that the Arch-Biſhop of <hi>Caenterbury</hi> be not there, by the Vacation of his See; then the Arch-Biſhop of <hi>York</hi> is to take his place: who admitteth the Biſhop of <hi>London</hi> on his Right Hand, and the Biſhop of <hi>Wincheſter</hi> to his Left; the reſt ſitting as they are Elders by Conſecration. <hi>C. Lib.</hi> 4. <hi>c.</hi> 24. Of Honours Mi<g ref="char:EOLhyphen"/>litary and Civil.</p>
+                  <p>A Biſhop muſt do Reverence unto his Father at home; but, being in the Church, the Father ſhall follow him.</p>
+                  <p>Between two Equals, he that is in his own Juriſdiction ſhall precede. As if an Arch-Biſhop do come into a Dioceſs of a Biſhop; notwithſtanding he is a Perſon of more Dignity, yet ought he give Honour unto the Biſhop, becauſe his Preſence doth not cancel his Authority. <hi>C. Lab.</hi> 4. <hi>c.</hi> 24. Of Honour, Mili<g ref="char:EOLhyphen"/>tary and Civil.</p>
+               </div>
+               <div type="section">
+                  <head>17. <hi>Their Excommunications.</hi>
+                  </head>
+                  <p>EXcommunication (that is, the greateſt Judgment upon Earth, being that which is ratified in Heaven) will be the better underſtood by theſe Parti<g ref="char:EOLhyphen"/>cularities.</p>
+                  <p n="1">1. Its Definition.</p>
+                  <p n="2">2. Its Diviſion.</p>
+                  <p n="3">3. The Writs that belong to it.</p>
+                  <p n="4">4. By whom it ought to be cerified.</p>
+                  <p n="5">5. The Power of it in a Chriſtian Church.</p>
+                  <div type="subsection">
+                     <pb n="23" facs="tcp:56764:12"/>
+                     <head>Firſt, <hi>Its Definition.</hi>
+                     </head>
+                     <p>Excommunication is thus defined by <hi>Panormitan:</hi>
+                        <note place="margin">
+                           <hi>Co. Lit.</hi> 133. <hi>b</hi>
+                        </note> 
+                        <hi>Excommunicatio eſt nihil ali<g ref="char:EOLhyphen"/>ud, quàm Cenſura a Canone, Vel Judice Eccleſiaſtico prolata, &amp; inflicta, privans legitima Communione Sacramentorum, &amp; quandoque Hominum.</hi>
+                     </p>
+                  </div>
+                  <div type="subsection">
+                     <head>Secondly, <hi>Its Diviſion.</hi>
+                     </head>
+                     <p>This Excommunication thus defined by the Canoniſt, is twofold;
+<note place="margin">
+                           <hi>Co. Lit.</hi> 133 <hi>b.</hi>
+                        </note> it is ei<g ref="char:EOLhyphen"/>ther Leſſer, or Greater.</p>
+                     <p>The Leſſer is, <hi>Per quam quis a Sacramentorum participatione Conſcientia, vel Sententia arcetur.</hi>
+                     </p>
+                     <p>The Greater Excommunication is that which, <hi>Non ſolùm a Sacramentorum verum etiam fidelium Communione excludit, &amp; ab omni actu legitimo ſeparat &amp; divi<g ref="char:EOLhyphen"/>dit.</hi>
+                     </p>
+                     <p>Either of theſe diſableth the Party to ſue any Action in the Kings Courts: And yet our Books tell us, that every Excommunication diſableth not the Party.</p>
+                     <p>As for Example, If Bailiffs and Commons,
+<note place="margin">30. <hi>E.</hi> 3.15. <hi>Co. Lit.</hi> 134. <hi>a.</hi>
+                        </note> or any other Corporation aggre<g ref="char:EOLhyphen"/>gate of many, bring an Action, <hi>Excommengement</hi> in the Bailiffs, ſhall not diſ<g ref="char:EOLhyphen"/>able them, for that they ſue and anſwer by Attourney; otherwiſe it is of a ſole Corporation.</p>
+                     <p>But if Executors or Adminiſtrators be excommunicated, they may be diſ<g ref="char:EOLhyphen"/>abled; becauſe they which converſe with a Perſon excommunicate, are ex<g ref="char:EOLhyphen"/>communicate alſo.</p>
+                     <p>If a Biſhop be Defendant,
+<note place="margin">
+                           <hi>Co. Lit.</hi> 134. <hi>a.</hi> 9 <hi>A.</hi> 7.21. <hi>b.</hi>
+                        </note> an Excommunication by the ſame Biſhop againſt the Plaintiff, ſhall not diſable him: and it ſhall be intended for the ſame Cauſe, if another be not ſhewed.</p>
+                  </div>
+                  <div type="subsection">
+                     <head>Thirdly, <hi>The ſeveral Writs that belong to it.</hi>
+                     </head>
+                     <p>There are three ſorts of Writs appertaining to Excommunications.</p>
+                     <p>The one is called <hi>Excommunicato Capiendo.</hi>
+                     </p>
+                     <p>Another named, <hi>Excommunicato Deliberando.</hi>
+                     </p>
+                     <p>The Third is ſtyled, <hi>Excommunicato Recipiendo.</hi>
+                     </p>
+                     <p>
+                        <hi>Excommunicato Capiendo,</hi> is a Writ directed to the Sheriff, for the Apprehen<g ref="char:EOLhyphen"/>ſion of him that ſtandeth obſtinately excommunicated for forty days. For, ſuch a one, not ſeeking his Abſolution, hath, or may have his Contempt certi<g ref="char:EOLhyphen"/>fied, or ſignified into the Chancery: whence iſſueth this Writ, for the laying of him up, without Bail or Mainprize, until he conform himſelf.</p>
+                     <pb n="24" facs="tcp:56764:13"/>
+                     <p>And when he is juſtified, and hath made Agreement, then the Biſhop ſhall ſend his Letters to the King, teſtifying the ſame: and then it ſhall be comman<g ref="char:EOLhyphen"/>ded to the Sheriff, to deliver him by a Writ called <hi>Excommunicato Delibe<g ref="char:EOLhyphen"/>r<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>do.</hi>
+                     </p>
+                     <p>But if the Perſon excommunicated, and for his Obſtinacy being committed to Priſon, be inlawfully delivered thence, before he has given Caution to obey the Authority of the Church; then he is commanded to be ſought for, and laid up again by a Writ, called <hi>Excommunicato Recipiendo.</hi>
+                     </p>
+                     <p>My Lord <hi>Coke</hi> tells us,
+<note place="margin">
+                           <hi>Co.</hi> 2. <hi>
+                              <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                                 <desc>〈◊〉</desc>
+                              </gap>.</hi> 
+                           <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> 23.</note> that if a Man be excommunicated, and offer to obey, and perform the Sentence, and the Biſhop refuſes to accept it, and to aſſoil him; he ſhall have a Writ to the Biſhop, requiring him, upon performance of the Sentence, to aſſoil him, <hi>&amp;c.</hi> And alſo the Party grieved may have his A<g ref="char:EOLhyphen"/>ction, upon his Caſe, againſt the Biſhop, in like manner as he may, when the Biſhop doth excommunicate him for a matter which belongeth not to Eccleſia<g ref="char:EOLhyphen"/>ſtical Cognizance. Alſo, the Biſhop in thoſe Caſes may be indicted at the Suit of the King.</p>
+                  </div>
+                  <div type="subsection">
+                     <head>Fourthly, <hi>By whom Excommunication ought to be certified.</hi>
+                     </head>
+                     <p>It is declared in our Books,
+<note place="margin">
+                           <hi>Co. Lit.</hi> 134. <hi>a.</hi> 12. <hi>
+                              <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>.</hi> 4.15.20. <hi>H.</hi> 6.17.11. <hi>H.</hi> 4.14.</note> that none can certifie Excommengement, but only the Biſhop, unleſs the Biſhop be beyond Sea, or <hi>in Remotis,</hi> or one that hath ordinary Juriſdiction, and is Immediate Officer to the King's Courts. As the Arch-Deacon of <hi>Richmond,</hi> or the Dean and Chapter in time of Vaca<g ref="char:EOLhyphen"/>tion.</p>
+                     <p>But in antient time every Official or Commiſſary might teſtifie Excommenge<g ref="char:EOLhyphen"/>ment in the King's Court;
+<note place="margin">11. <hi>H.</hi> 4.62.</note> and for the miſchief that enſued thereupon, it was ordained by the King in Parliament, that none ſhould teſtifie Excommengement, but the Biſhop only.</p>
+                     <p>If a Biſhop certifie,
+<note place="margin">33, <hi>E.</hi> 3. <hi>Excom.</hi> 29.</note> that another Biſhop hath certified him, that the Party which is his Dioceſan, is excommunicated; this Certificate upon anothers Re<g ref="char:EOLhyphen"/>port is not ſufficient.</p>
+                     <p>If the Biſhop certifieth the Excommunication under Seal,
+<note place="margin">
+                           <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>4. <hi>E.</hi> 3. <hi>Excom.</hi> 
+                           <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>.</note> albeit he dieth, yet the Certificate ſhall ſerve.</p>
+                     <p>And it is to be obſerved,
+<note place="margin">
+                           <hi>Co.</hi> 2. <hi>Inſt.</hi> 623.28. <hi>E.</hi> 3.97.14. <hi>H.</hi> 4 14.</note> that at the Common Law, a Certificate of the Bi<g ref="char:EOLhyphen"/>ſhop, whereupon a <hi>Significavit,</hi> that is, a Writ <hi>De Excommunicato Capiendo,</hi> was to be granted, ought to expreſs the Cauſe and the Suit againſt the Party, eſpecially in the Certificate.</p>
+                     <p>But it may be queried whether an Excommunication, and Certificate thereof, by any Foreign Power, can diſable the Party?</p>
+                     <p>It is anſwered,
+<note place="margin">16. <hi>E.</hi> 3. <hi>Excom.</hi> 4.4. <hi>H.</hi> 7.15.12. <hi>E.</hi> 4.15.</note> that if the Biſhop of <hi>Rome,</hi> or any other, having Foreign Authority, doth excommunicate any Subject of this Realm, and certifieth ſo much under his Seal of Lead; this ſhall not diſable the Party: For the Common Law diſallows all Acts done in diſability of any Subject of this Realm, by any Foreign Power out of the Realm, as things not Authentick. Whereof the Judges ſhould give Allowance.</p>
+                  </div>
+                  <div type="subsection">
+                     <pb n="25" facs="tcp:56764:13"/>
+                     <head>Fifthly, <hi>The Power of Excommunication in a Chriſtian Church.</hi>
+                     </head>
+                     <p>A moſt Learned Doctor of our Church, that he may give the Church her due, and <hi>Caeſar</hi> his, aſſerts, and proves theſe Particulars.</p>
+                     <p>Firſt, That under the Goſpel there is a Power in the Officers of the Church, by virtue of Divine Inſtitution, to exclude any Offenders out of the Chriſtian Society, for tranſgreſſing the Laws of it.</p>
+                     <p>The Second, That this Power doth remain formally in the Church, after its being incorporated into the Commonwealth.</p>
+                     <p>The Third, That after the Churches being incorporated into the Common<g ref="char:EOLhyphen"/>wealth, the Right of Supreme Management of this Power, in an External way, doth fall into the Magiſtrates Hands; conſiſting in theſe four things.</p>
+                     <p n="1">1. A Right of preſcribing Laws for the Management of Church-Cenſures.</p>
+                     <p n="2">2. A Right of bounding the manner of Proceeding in Cenſures; that in a ſettled Chriſtian State, Matters of ſo great weight be not left to the Arbitrary Pleaſure of any Church-Officers.</p>
+                     <p n="3">3. The Right of adding Temporal and Civil Sanctions to Church Cenſures, and ſo inforcing the Spiritual Weapons of the Church with the more keen and ſharp ones of the Civil State.</p>
+                     <p n="4">4. To the Magiſtrate belongs the Right of Appeals, in caſe of unjuſt Cen<g ref="char:EOLhyphen"/>ſure.</p>
+                     <p>So that the Sum of all that has been ſaid is this; That though the Magiſtrate hath the main care of ordering things in the Church, yet (the Magiſtrates Power being Cumulative, and not Privative) the Church and her Officers retain the Fundamental Right of inflicting Cenſures on Offenders.</p>
+                     <p>Thus much concerning the Superior Clergy; containing the Arch-Biſhops, and Biſhops: I come now to treat of the Inferior Clergy; under which are comprehended, Deans, Arch-Deacons, Parſons, Vicars, Prebends and Chap<g ref="char:EOLhyphen"/>lains.</p>
+                  </div>
+               </div>
+            </div>
+            <div type="part">
+               <pb facs="tcp:56764:14"/>
+               <pb n="27" facs="tcp:56764:14"/>
+               <head>SECONDLY, OF THE INFERIOR CLERGY.</head>
+               <p>IT is to be known, that of Spiritual Functions there be three Degrees.</p>
+               <p n="1">1. A Function which hath a Juriſdiction.</p>
+               <p n="2">2. A Spiritual Adminiſtration with a Cure.</p>
+               <p n="3">3. They, who have neither Cure, nor Juriſdiction.</p>
+               <p>Of theſe in their Order.</p>
+               <div type="section">
+                  <head>1. <hi>Of a Function, which hath a Juriſdiction.</hi>
+                  </head>
+                  <p>UNder this Rank may be placed Deans and Arch-Deacons.</p>
+                  <div type="subsection">
+                     <head>1. <hi>Deans.</hi>
+                     </head>
+                     <p>Dean, in Latine <hi>Decanus;</hi> which is derived of the Greek Word, <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>,
+<note place="margin">
+                           <hi>Co. Lit.</hi> 9<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>. <hi>a.</hi>
+                        </note> that ſignifieth <hi>T<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>;</hi> for that he is an Eccleſiaſtical Secular Governor, and was anciently over ten Prebends, or Canons, at the leaſt.</p>
+                     <p>Howbeit, in <hi>England</hi> we uſe to call him a Dean, that is next under the Bi<g ref="char:EOLhyphen"/>ſhop, and Chief of the Chapter, ordinarily in a Cathedral Church, and the reſt of the Society, or Corporation we call <hi>Capitulum,</hi> the Chapter.</p>
+                     <pb n="28" facs="tcp:56764:15"/>
+                     <p>Now,
+<note place="margin">
+                           <hi>Co. Lit.</hi> 95. <hi>a.</hi>
+                        </note> Of Chapters there be in our Law two kinds, <hi>viz.</hi> The Antient; and the Latter.</p>
+                     <p>And the Latter be of two ſorts.</p>
+                     <p n="1">1. Thoſe which were tranſlated or founded by King <hi>Henry</hi> the Eighth, in place of Abbots and Covents, or Priors and Covents; which were Chapters whilſt they ſtood: and theſe are new Chapters to old Biſhopricks.</p>
+                     <p n="2">2. Where the Biſhoprick was newly founded by <hi>Henry</hi> the Eighth (as <hi>Cheſter,</hi> and <hi>Briſtow, &amp;c.</hi>) there the Chapters are alſo new.</p>
+                     <p>There is a great Diverſity between the coming in of the Antient Deans and the New.</p>
+                     <p>For, the Antient come in in much like ſort as Biſhops do. For they are choſen by the Chapiter, by a <hi>Cogue de Eſlier,</hi> as Biſhops be; and the King giv<g ref="char:EOLhyphen"/>ing his Royal Aſſent, they are confirmed by the Biſhop. But they which are either newly tranſlated, or founded, are Donative; and by the King's Letters Patents are inſtalled.</p>
+                     <p>Note, The Word Dean is alſo applied to divers, that are the Chief of cer<g ref="char:EOLhyphen"/>tain peculiar Churches or Chappels. As,</p>
+                     <p>The Dean of the Ring's Chappel.</p>
+                     <p>The Dean of the Arches.</p>
+                     <p>The Dean of St. <hi>Georges</hi> Chappel in <hi>Windſor.</hi>
+                     </p>
+                     <p>The Dean of <hi>Bocking</hi> in <hi>Eſſex.</hi>
+                     </p>
+                     <p>The Corporation, conſiſting of Dean and Chapter, they may joyntly pur<g ref="char:EOLhyphen"/>chaſe Lands and Tenements to the uſe of their Church and Succeſſors. And e<g ref="char:EOLhyphen"/>very one ſeverally, likewiſe may purchaſe, to the uſe of himſelf, and his Heirs.</p>
+                     <p>Grants at this day,
+<note place="margin">
+                           <hi>Co. Lic.</hi> 342. <hi>a.</hi>
+                        </note> made by a Dean and Chapter, or any other, having a<g ref="char:EOLhyphen"/>ny Spiritual or Eccleſiaſtical Living, are reſtrained by Act of Parliament; ſo as they cannot grant any Rent-Charge, or make any Alienation, or any Lea<g ref="char:EOLhyphen"/>ſes, to bind their Succeſſors, other than for Term of twenty one Years, or three Lives in Poſſeſſion; whereupon the accuſtomed Rent, or more, ſhall be reſerved.</p>
+                  </div>
+                  <div type="subsection">
+                     <head>2. <hi>Arch-Deacons.</hi>
+                     </head>
+                     <p>Arch-Deacons, in Latine, <hi>Archi-Deacanus;</hi> and in Greek, <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>, <hi>ex</hi> 
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>, <hi>i. e. Princeps &amp;</hi> 
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>, <hi>i. e.</hi> Miniſter) is ſtyled, <hi>Oculus Epiſcopi.</hi> Whoſe Court is to be holden (as is ſaid before) where, and in what places, he either by Preſcription, or Compoſition, hath Juriſdiction in Spiri<g ref="char:EOLhyphen"/>tual Cauſes, within his Arch-Deaconry. And from him the Appeal is to be Dioceſan.</p>
+                     <p>It has been reſolved,
+<note place="margin">Hobart<hi>'s Re<g ref="char:EOLhyphen"/>ports.</hi> Hutton<hi>'s Caſe.</hi>
+                        </note> that if a Suit be before an Arch-Deacon, whereof, by the Statute of the twenty third of <hi>Henry</hi> the Eighth, the Ordinary may licenſe
+<pb n="29" facs="tcp:56764:15"/>the Suit to an higher Court; that the Arch-Deacon cannot in ſuch Caſe bawlk his Ordinary, and ſend the Cauſe immediately into the Arches. For, he hath no power to give a Court, but to remit his own Court, and to leave it to the next. For, ſince his Power was derived from the Biſhop, to whom he is ſub<g ref="char:EOLhyphen"/>ordinate, he muſt yield it to him, of whom he received it. And it was ſaid, that ſo it had been ruled heretofore.</p>
+                  </div>
+               </div>
+               <div type="section">
+                  <head>2. <hi>Of a Spiritual Adminiſtration with a Cure.</hi>
+                  </head>
+                  <p>UNder this Form I place Parſons and Vicars.</p>
+                  <div type="subsection">
+                     <head>1. <hi>Parſons.</hi>
+                     </head>
+                     <p>Parſon, in Legal Signification, is taken for the Rector of a Church Paro<g ref="char:EOLhyphen"/>chial; and is called <hi>Perſona Eccleſiae,</hi> becauſe he aſſumeth, and taketh upon him the Parſon of the Church; and is ſaid to be ſiezed in <hi>Jure Eccleſiae.</hi> And the Law had an excellent end herein, <hi>viz.</hi> That in his Perſon the Church might ſue for, and defend her Right; and alſo, be ſued by any that had an elder and better Right. And when the Church is full, it is ſaid to be, <hi>Plena &amp; Conſulta,</hi> of ſuch a one Parſon thereof; that is, full, and provided of a Parſon that may, <hi>Vicem, ſeu perſonam ejus gerere.</hi>
+                     </p>
+                     <p>
+                        <hi>Perſona Imperſonata,</hi> Parſon Imperſonate,
+<note place="margin">
+                           <hi>Co. Lit.</hi> 300. <hi>b.</hi>
+                        </note> is the Rector that is in Poſſeſſion of the Church Parochial, be it Preſentative or Impropriate; and of whom the Church is full.</p>
+                     <p>To every Church-Preſentative there is a Patron: and it is he that hath the Advowſon of a Parſonage, belonging to his Mannour, or otherwiſe in Groſs; and thereby may or ought to give the ſame Benefice, or preſent thereto, when and as often as it falleth void. And that is in caſe of Death, Reſignation, De<g ref="char:EOLhyphen"/>privation, or Seſſion; as by taking a Benefice incompatible. And this be<g ref="char:EOLhyphen"/>ing Patron, had beginning, for the moſt part, by one of theſe three ways; namely,</p>
+                     <p>Either, <hi>by reaſon of the Foundation;</hi> for that the Patron, or his Anceſtors,
+<note place="margin">
+                           <hi>Co. Lit.</hi> 119. <hi>b.</hi>
+                        </note> or thoſe, from whom he claims, were Founders, or Builders of the Church.</p>
+                     <p>Or, <hi>By reaſon of Donation;</hi> for that they did endow, or give Lands to the ſame, for maintenance thereof.</p>
+                     <p>Or elſe, <hi>By reaſon of the Ground;</hi> becauſe the Church was ſet, or builded up<g ref="char:EOLhyphen"/>on their Soil.</p>
+                     <p>And many times by reaſon of them all three.</p>
+                  </div>
+                  <div type="subsection">
+                     <pb n="30" facs="tcp:56764:16"/>
+                     <head>2. <hi>Vicars.</hi>
+                     </head>
+                     <p>For the beginning of Vicaridges; the difference betwixt a Vicaridge, and an Advowſon, and the ſeveral ſorts of Vicaridges, I refer my Reader to <hi>Da<g ref="char:EOLhyphen"/>vy's Reports, f.</hi> 83. <hi>a. &amp; Cro.</hi> 2. <hi>p. ſ.</hi> 518. and I ſhall only give him ſome little Information concerning Vicaridges, by ſhewing him ſomewhat of Impropria<g ref="char:EOLhyphen"/>tions.</p>
+                     <p>Impropriations, or Appropriations, were (ſays my Author) when thoſe Houſes of the Romiſh Religion, and thoſe Religious Perſons; as Abbots, Pri<g ref="char:EOLhyphen"/>ors and ſuch like, had the Advowſon of any Parſonage to them, and to their Succeſſors; and obtained Licenſe of the Pope, and of the Ordinary, and King, that they themſelves, and their Succeſſors, from thenceforth, ſhould be Par<g ref="char:EOLhyphen"/>ſons there: and that it ſhall be from thenceforth a Vicaridge, and that the Vi<g ref="char:EOLhyphen"/>car ſhould ſerve the Cure.</p>
+                     <p>And ſo at the beginning, Appropriations were made only to thoſe Perſons Spiritual that could adminiſter the Sacraments, and ſay Divine Service. As, Abbots, Priors, Deans, and ſuch like.</p>
+                     <p>After, by little and little, they were enlarged, and made to others; As namely, to a Dean and Chapter; which is a Body Corporate, conſiſting of many: which Body together could not ſay Divine Service.</p>
+                     <p>And, which was more; To Nuns, that were Prioreſſes of ſome Nunnery: which was a wicked thing. In ſo much as they could neither adminiſter Sacra<g ref="char:EOLhyphen"/>ments, nor preach, nor ſay Divine Service to the Pariſhioners.</p>
+                     <p>And all this was for pretence of Hoſpitality, and maintenance thereof. And, to ſupply theſe defects, a Vicar was deviſed; who ſhould be Deputy to the Priors, or to the Dean and Chapter; and alſo, at the laſt, to the ſaid Abbots, and others, to ſay Divine Service: and ſhould have for his labour but a little Portion; and they, to whom the Appropriations were made, ſhould retain the greater Revenues, and they did nothing for it. By means whereof Hoſpita<g ref="char:EOLhyphen"/>lity decayed in the place where it ought to have been chiefly maintained; name<g ref="char:EOLhyphen"/>ly, in the Pariſh where the Benefice was, and where the Profits did grow. And ſo it continues to this day; to the great hinderance of Learning, to the Impo<g ref="char:EOLhyphen"/>veriſhment of the Miniſtery, and to the Infamy of the Goſpel, and Profeſſors thereof.</p>
+                     <p>To this Learning of Impropriations, I ſhall add the very words of him, that was the Glory of his Age and Nation.</p>
+                     <p>
+                        <hi>In mine Opinion,</hi>
+                        <note place="margin">Lord <hi>Bacon.</hi>
+                        </note> 
+                        <hi>and Senſe</hi> (ſays he) <hi>I muſt confeſs (let me ſpeak it with Reve<g ref="char:EOLhyphen"/>rence) that all the Parliaments, ſince the twenty ſeventh and thirty firſt of</hi> Henry <hi>the Eighth (who gave away Impropriations from the Church) ſeem to me to ſtand, in a ſort, obnoxious, and obliged to God, in Conſcience, to do ſomewhat for the Church; to reduce the Patrimony thereof to a Competency. For, ſince they have debarred Chriſts Wife of a great part of her Dowry, it were reaſon they made her a competent Joyn<g ref="char:EOLhyphen"/>ture.</hi>
+                     </p>
+                     <pb n="31" facs="tcp:56764:16"/>
+                     <p>Thus much for poor Vicars. I go on to the third degree of Spiritual F<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>n<g ref="char:EOLhyphen"/>ctions, containing Prebendaries and Caplains.</p>
+                  </div>
+               </div>
+               <div type="section">
+                  <head>3. <hi>Of thoſe who have neither Cure, nor Juriſdiction.</hi>
+                  </head>
+                  <p>UNder this ſame Order I ſet Probendaries, and Chaplains.</p>
+                  <div type="subsection">
+                     <head>1. <hi>Prebendaries.</hi>
+                     </head>
+                     <p>Prebend, and Prebendary are Terms often, uſed in our Books: and they come of the Latine <hi>[Praebeo.]</hi>
+                     </p>
+                     <p>Prebend is that Portion, which every Member, or Canon of a Cathedral Church receiveth in the Right of his Place, for his Maintenance.</p>
+                     <p>And Prebendary is he that hath ſuch a Prebend.</p>
+                     <p>It is reſolved, that a Lay-Man may be preſented to a Prebend; for,
+<note place="margin">
+                           <hi>Co. Lib.</hi> 3. <hi>Caſe del Dean &amp; Chapter, f.</hi> 75. <hi>Cro.</hi> 1. <hi>p Bland <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap> Madox ſ</hi> 79.</note> 
+                        <hi>Non ha bet curam animarum.</hi> And it is ſaid in our Books, that the Biſhop is Patron and Ordinary of every Prebend; for all the Poſſeſſions of Prebends were at the firſt, the Biſhops; and, <hi>De mero Jure,</hi> pertain to the Biſhops.</p>
+                  </div>
+                  <div type="subsection">
+                     <head>2. <hi>Chaplains.</hi>
+                     </head>
+                     <p>Chaplain is he that performeth Divine Service in a Chappel; and therefore is commonly uſed for him that dependeth upon the King, or other Man of worth, for the Inſtruction of him and his Family, the Reading of Prayers, and preaching in his private Houſe; where uſually they have a Chappel for that purpoſe.</p>
+                     <p>And for that they are retained by Letters under the Seal of their Patron, and thereby, by Intendment, are to be reſident with them; the Law hath therefore given liberty for their Non Reſidence upon their Benefices.</p>
+                     <p>If an Earl. or Baron retaineth a Chaplain, and before his Advancement, be attainted of Treaſon, there the Reteiner is determined. And after the Attain<g ref="char:EOLhyphen"/>der, ſuch Chaplain cannot take a ſecond Benefice; becauſe he that is attainted, is, by his Attainder, a dead Perſon in Law.</p>
+                     <p>The Wife of a Baron, during the Coverture, cannot retain a Chaplain; yet, when a Baronneſs Widdow retaineth one, or two, according to the Pro<g ref="char:EOLhyphen"/>viſo of the Statute of the twenty firſt of <hi>Henry</hi> the Eighth, <hi>c.</hi> 13. the Retainer is the Principal matter: and as long as the Retainer is in force, and the Barronneſs continueth a Baronneſs, the Chaplains may well take two Benefices by the ex<g ref="char:EOLhyphen"/>preſs Letter of the Statute; for it ſufficeth, if at the time of the Retainer, the
+<pb n="32" facs="tcp:56764:17"/>Baronneſs were a Widdow. And herein this Rule is to be obſerved of a Wo<g ref="char:EOLhyphen"/>man that attaineth Nobility by Marriage. As, by Marriage of a Duke, Earl, or Baron, <hi>&amp;c.</hi> For, in ſuch caſe, if ſhe afterward marry under the Degree of Nobility, by ſuch Marriage with one that is not Noble, ſhe loſeth her Dignity, whereunto ſhe had attained by Marriage. And after ſuch latter Marriage, the power to retain a Chaplain is determined.</p>
+                     <p>But otherwiſe it is, where a Woman is Noble by Deſcent: For there her Retainer, before or after the Marriage with one that is not Noble, ſhall be in force, and is not countermanded by the Marriage, nor determined by her tak<g ref="char:EOLhyphen"/>ing of a Husband under her Degree. <hi>Coke, lib.</hi> 4. <hi>fol.</hi> 118, 119. <hi>Acton</hi>'s Caſe.</p>
+                     <p>If a Biſhop be tranſlated to an Arch-Biſhop, or a Baron to be created an Earl, <hi>&amp;c.</hi> yet, within the Statute of the twenty firſt of <hi>Henry</hi> the Eighth, they can have but only ſo many Chaplains as an Arch-Biſhop, or an Earl might have: for, although he have divers Dignities, yet he is ſtill but one ſelf-ſame Perſon, to whom the Attendance and Service ſhould be done. So, if a Baron be made a Knight of the Garter, or Lord Warden of the Cinque Ports, he ſhall have but three Chapplains in all. <hi>Et ſic de ſimilibus.</hi>
+                     </p>
+                     <p>Thus having given my Reader a brief Account of the Superior and Inferior Clergy, I ſhall conclude my Diſcourſe, by ſhewing ſome (among many) of the Privileges and Immunities appertaining to the Eccleſiaſtical Hierarchy in Ge<g ref="char:EOLhyphen"/>neral.</p>
+                  </div>
+               </div>
+               <div type="section">
+                  <head>The Immunities of the Clergy in General.</head>
+                  <p>THe Kings of <hi>England,</hi> out of a zeal and deſire they had, to grace and ho<g ref="char:EOLhyphen"/>nour their Learned and Godly Clergy, were pleaſed to confer on them ſeveral Immunities: ſuch as theſe following.</p>
+                  <p n="1">1.
+<note place="margin">
+                        <hi>Co.</hi> 2. <hi>Inst ſ.</hi> 3. <hi>&amp;</hi> 4.</note> The Clergy were diſcharged of Purveyance for their own proper Goods.</p>
+                  <p n="2">2.
+<note place="margin">Coke.</note> No Demeſne, or proper Court for the neceſſary uſe of any Eccleſiaſtical Perſon ought to be taken for the King's Carriage, but they are exempted by the antient Law of <hi>England,</hi> from any ſuch Carriage.</p>
+                  <p n="3">3.
+<note place="margin">Coke.</note> If a Man holdeth Lands or Tenements, by reaſon whereof, upon Electi<g ref="char:EOLhyphen"/>on to ſerve in a Temporal Office: If this Man be made an Eccleſiaſtical Per<g ref="char:EOLhyphen"/>ſon, within Holy Orders, he ought not to be elected to any ſuch Office. And if he be, he may have the King's Writ for his Diſcharge.</p>
+                  <p n="4">4.
+<note place="margin">
+                        <hi>Co. Lit. f.</hi> 70. <hi>b. co.</hi> 2 <hi>Inſt.</hi> 4.</note> Eccleſiaſticals are not bound to ſerve in Perſon at the Wars.</p>
+                  <p n="5">5.
+<note place="margin">Coke.</note> All Eccleſiaſtical Perſons ought to be quit, and diſcharged of Tolls and Cuſtoms, Avirage, Pontage, Paviage, and the like, for their Eccleſiaſtical Goods; and if they be moleſted therefore, they have a Writ for their Diſ<g ref="char:EOLhyphen"/>charge.</p>
+                  <pb n="33" facs="tcp:56764:17"/>
+                  <p>If any Eccleſiaſtical Perſon be in fear or doubt, that his Goods, or Chattels,
+<note place="margin">Coke.</note> or Beaſts, or the Goods of his Farmer, <hi>&amp;c.</hi> ſhould be taken by the Miniſters of the King, for the buſineſs of the King, he may purchaſe a Protection, <hi>Cum Clauſula Nolumus.</hi>
+                  </p>
+                  <p n="7">7. Diſtreſſes ſhall not be taken by Sheriffs, or other of the King's Miniſters,
+<note place="margin">Coke.</note> in the Inheritance of the Church, wherewith it was antiently endowed.</p>
+                  <p n="8">8. If any Eccleſiaſtical Perſon acknowledge a Statute-Merchant,
+<note place="margin">Coke.</note> or Statute-Staple, or a Recognizance in the nature of a Statute-Staple; his Body ſhall not be taken by force of any Proceſs thereupon.</p>
+                  <p n="9">9. If a Perſon be bound in a Recognizance in Chancery,
+<note place="margin">Coke.</note> or in any other Court, and he pay not the Sum at the day; by the Common Law, if the Perſon had nothing but Eccleſiaſtical Goods, the Recognizee could not have a <hi>Levari facias</hi> to the Sheriff, to levy the ſame of theſe Goods: but the Writ ought to be directed to the Biſhop of the Dioceſs, to leavy the ſame of his Eccleſiaſtical Goods.</p>
+                  <p n="10">10. In Action brought againſt a Perſon (wherein a <hi>Capias</hi> lieth;) For example,
+<note place="margin">Coke.</note> an Account the Sheriff returns, <hi>Quod Clericus eſt beneficiatus, nullum habens Lai<g ref="char:EOLhyphen"/>cum feodum;</hi> in which he may be ſummoned: In this caſe the Plaintiff cannot have a <hi>Capias</hi> to the Sheriff, to take the Body of the Perſon; but he ſhall have a Writ to the Biſhop, to cauſe the Perſon to come and appear.</p>
+                  <p n="11">11. Eccleſiaſtical Perſons are not bound to appear at Tourns,
+<note place="margin">
+                        <hi>Marlb. c.</hi> 10.</note> or Views of Frank-pledge.</p>
+                  <p n="12">12.
+<note place="margin">
+                        <hi>Co.</hi> 2. <hi>Inst. f.</hi> 29.</note> If any Eccleſiaſtical Perſon be amerced (though Amerciaments belong to the King) yet he ſhall not be amerced, in reſpect of his Eccleſiaſtical Promotion or Benefice, but in reſpect of his Lay-Fee.</p>
+                  <p n="13">13. He that is within Holy Orders, hath this Privilege;
+<note place="margin">
+                        <hi>Co.</hi> 2. <hi>Inst.</hi> 637.</note> that albeit he have had the Privilege of his Clergy for a Felony, he may have his Clergy after<g ref="char:EOLhyphen"/>wards again: and ſo cannot a Lay-man.</p>
+                  <p n="14">14. No Clerk within Holy Orders, though he had a Knight's Fee, was com<g ref="char:EOLhyphen"/>pellable to be Knighted, according to the Statute, <hi>De Militibus;</hi> of the firſt of <hi>Edward</hi> the Second.</p>
+                  <p n="15">15. At the Common Law, at the firſt,
+<note place="margin">Hobart<hi>'s Rep. f.</hi> 288.</note> the Benefit of the Clergy was not al<g ref="char:EOLhyphen"/>lowed but to Clerks in holy Orders, Secular and Religious.</p>
+                  <p n="16">16. If any Lay-men, with force, and ſtrong hand, do enter upon,
+<note place="margin">
+                        <hi>Co. Inst.</hi> 54.</note> or keep the Poſſeſſion, either of the Church, or of any of the Houſes or Glebe, <hi>&amp;c.</hi> be<g ref="char:EOLhyphen"/>longing thereunto; the Incumbent, upon Certificate thereof of the Biſhop, or without Certificate, upon his own ſurmiſe, may have a Writ to the Sheriff, <hi>De vi Laica amovenda:</hi> By which the Sheriff is commanded in theſe words; <hi>Praci<g ref="char:EOLhyphen"/>pimus quod omnem Vim Laicam ſeu armatam, quae ſe tenet in dictae Eccleſiae ſeu domi<g ref="char:EOLhyphen"/>bus eidem annexis, ad pacem noſtram in Com. tuo perturband. ſine dilatione amoveas, &amp; ſi quos in hac parte reſiſtentes invenerts, eos per Corpora ſua attachias &amp; in priſona noſtra ſalvo Cuſtodias, &amp;c.</hi>
+                  </p>
+                  <p n="17">17. Eccleſiaſtical Livings are ſaid to be in Abeyance:
+<note place="margin">
+                        <hi>Co. Lit.</hi> 341. <hi>a.</hi>
+                     </note> and this was provided by the Providence and Wiſdom of the Law. And therefore, no Act of a Vi<g ref="char:EOLhyphen"/>car-Predeceſſor ſhould make a diſcontinuance, to take away the Entry of his
+<pb n="34" facs="tcp:56764:18"/>Succeſſor, and to drive him to a real Action, whereby he ſhould be deſtitute of maintenance in the mean time.</p>
+                  <p n="18">18. A general Accuſation againſt a Parſon, or Vicar, not good: and there<g ref="char:EOLhyphen"/>fore, in a <hi>Quare Impedit</hi> againſt the Biſhop, it is not a good Plea to alledge that the Preſentee is a Schiſmatick in general; but he ought to expreſs Schiſm in particular. But it is otherwiſe for the putting a Coroner out of his Office; for there is a general Suggeſtion in the Writ, that he is, <hi>Perſona minus Idonea,</hi> is e<g ref="char:EOLhyphen"/>nough, and not Traverſable.</p>
+                  <p n="19">19.
+<note place="margin">
+                        <hi>Co. Li<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>.</hi> 8.14. <hi>a. Lab.</hi> 11. <hi>f.</hi> 70. <hi>a.</hi>
+                     </note> And laſt, Statutes which reſtrain Alienation of Eccleſiaſtical Livings, bind the King, though not named.</p>
+                  <p>I ſhall conclude the whole Diſcourſe with my hearty Prayer to God Almigh<g ref="char:EOLhyphen"/>ty; that he would be pleaſed, always to defend the Church of <hi>England</hi> againſt the fierce Attempts of Halting <hi>Loyola,</hi> and Crook-back'd <hi>Hudibras.</hi>
+                  </p>
+                  <p>The one would deſtroy her Prieſts: The other would devour her Patrimony.</p>
+                  <p>The one would introduce the Pomp of Superſtitious Tyranny: The other would bring in the Meanneſs of Fantaſtick Anarchy.</p>
+               </div>
+            </div>
+         </div>
+         <div type="postscript">
+            <pb n="35" facs="tcp:56764:18"/>
+            <head>POSTSCRIPT.</head>
+            <p>THe Higheſt and moſt binding Laws are the Statutes, which are eſta<g ref="char:EOLhyphen"/>bliſhed by the King in Parliament; and by Authority of that high<g ref="char:EOLhyphen"/>eſt Court, it has been often times enacted (only to ſhew a tender care of Holy Church:) That all Eccleſiaſtical Perſons ſhall enjoy all their Lawful Rights and Privileges, without any Subſtraction, what<g ref="char:EOLhyphen"/>ſoever, as appeareth by theſe Statutes after mentioned, which were but confir<g ref="char:EOLhyphen"/>mations of ſuch Rights and Immunities, as the Clergy had long before.</p>
+            <p>We have granted to God, and by this our preſent Charter,
+<note place="margin">
+                  <hi>Magna Charta. c.</hi> 1. <hi>Ann.</hi> 9. <hi>H.</hi> 3.</note> have confirmed for us and our Heirs for ever; that the Church of <hi>England</hi> ſhall be free, and ſhall have all her whole Rights.</p>
+            <p>That Holy Church have her Liberties in quietneſs,
+<note place="margin">14 <hi>E.</hi> 3. <hi>c.</hi> 1.</note> without interruption or diſturbance. <hi>Vide</hi> the ſame 25. <hi>E.</hi> 3. <hi>c.</hi> 1.50. <hi>E.</hi> 3. <hi>c.</hi> 1.</p>
+            <p>It is accorded and eſtabliſhed,
+<note place="margin">1 <hi>R.</hi> 2. <hi>c.</hi> 1.</note> that Holy Church ſhall have and enjoy all her Rights, Liberties and Franchiſes, wholly, and without blemiſh. <hi>Vide</hi> the ſame 2. <hi>R.</hi> 2. <hi>c.</hi> 1. 3. <hi>R.</hi> 2. <hi>c.</hi> 1. 5. <hi>R.</hi> 2. <hi>c.</hi> 1. 6. <hi>R.</hi> 2. <hi>c.</hi> 1. 7. <hi>R.</hi> 2. <hi>c.</hi> 1. 8. <hi>R.</hi> 2. <hi>c.</hi> 1. 12. <hi>R.</hi> 2. <hi>c.</hi> 1.</p>
+            <p>That Holy Church have and enjoy all her Rights, Liberties, and Franchiſes,
+<note place="margin">1 <hi>H.</hi> 4. <hi>c.</hi> 1.</note> entirely, and without blemiſhing. <hi>Vide</hi> 2. <hi>H.</hi> 4. <hi>c.</hi> 1. 4. <hi>H.</hi> 4. <hi>c.</hi> 1. 7. <hi>H.</hi> 4. <hi>c.</hi> 1. 9. <hi>H.</hi> 4. <hi>c.</hi> 1. 13. <hi>H.</hi> 4. <hi>c.</hi> 1.</p>
+            <p>That Holy Church have all her Liberties and Franchiſes.
+<note place="margin">3 <hi>H.</hi> 5. <hi>c.</hi> 1.</note>
+            </p>
+            <p>That Holy Church ſhall have and enjoy all their Liberties and Franchiſes.
+<note place="margin">2 <hi>H.</hi> 6. <hi>c.</hi> 1.</note>
+            </p>
+            <p>In a word, The Statute of <hi>Magna Charta</hi> hath been confirmed (as I am told) thirty two times, and ſo have therefore, ſay I, the Rights and Priviledges that appertain to the Church of <hi>England.</hi>
+            </p>
+            <p>With our Kings in Parliament, does concur the Emperor <hi>Juſtinian</hi> in his Codes.</p>
+            <p>
+               <hi>Privilegia,</hi>
+               <note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>od.</hi> 1.2.12.</note> 
+               <hi>quae generalibus Conſtitutionibus univerſis ſacroſanctis Eccleſia Ortho<g ref="char:EOLhyphen"/>doxae Religionis retro Principes praeſtiterunt, firma &amp; illibata in perpetuum decerni<g ref="char:EOLhyphen"/>mus Cuſtodiri.</hi>
+            </p>
+            <p>
+               <hi>Sicut ipſa Religio, &amp; fidei Mater eſt perpetua, ita ejus patrimonium jugiter ſerve<g ref="char:EOLhyphen"/>tur illaeſum.</hi>
+            </p>
+            <p>Now God Almighty give me favour in the Eyes of the Men, that they may ſend back that that is taken away already, and let that alone that yet re<g ref="char:EOLhyphen"/>maineth.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
